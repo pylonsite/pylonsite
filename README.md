@@ -17,7 +17,7 @@ private child-repo code (unless you have access to those repos).
 | `shared-ui` | [pylonsite/shared-ui](https://github.com/pylonsite/shared-ui) | Shared UI templates and assets (`@pylonsite/shared-ui`) |
 | `shared-docs` | [pylonsite/shared-docs](https://github.com/pylonsite/shared-docs) | Documentation and runbooks |
 | `shared-scripts` | [pylonsite/shared-scripts](https://github.com/pylonsite/shared-scripts) | Shared developer/maintenance scripts |
-| `sants-fitness` | [pylonsite/sants-fitness](https://github.com/pylonsite/sants-fitness) | Consumer application |
+| `site-sants-fitness` | [pylonsite/site-sants-fitness](https://github.com/pylonsite/site-sants-fitness) | Consumer application |
 
 ## How to clone
 

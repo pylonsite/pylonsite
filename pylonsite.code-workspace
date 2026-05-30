@@ -5,9 +5,10 @@
     { "path": "shared-lint", "name": "shared-lint" },
     { "path": "shared-docs", "name": "shared-docs" },
     { "path": "shared-scripts", "name": "shared-scripts" },
-    { "path": "sants-fitness", "name": "sants-fitness" }
+    { "path": "site-sants-fitness", "name": "site-sants-fitness" }
   ],
   "settings": {
+    "workbench.colorTheme": "Default Light Modern",
     "files.autoSave": "onFocusChange",
     "git.autoRepositoryDetection": "subFolders",
     "git.detectSubmodules": true,

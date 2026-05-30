@@ -14,7 +14,7 @@
 	path = shared-scripts
 	url = https://github.com/pylonsite/shared-scripts.git
 	branch = main
-[submodule "sants-fitness"]
-	path = sants-fitness
-	url = https://github.com/pylonsite/sants-fitness.git
+[submodule "site-sants-fitness"]
+	path = site-sants-fitness
+	url = https://github.com/pylonsite/site-sants-fitness.git
 	branch = main
