@@ -4,6 +4,11 @@ Base workspace (super-repo) for the **pylonsite** ecosystem. It ties together th
 shared packages and consumer apps as Git submodules and provides the clone
 helper and multi-root editor workspace.
 
+The public [`pylonsite/pylonsite`](https://github.com/pylonsite/pylonsite) repo is
+the workspace orchestrator; product code lives in the private submodule repos. A
+public clone only exposes submodule pointers and the tooling here — not the
+private child-repo code (unless you have access to those repos).
+
 ## Layout
 
 | Submodule | Repo | Role |
@@ -14,21 +19,66 @@ helper and multi-root editor workspace.
 | `shared-scripts` | [pylonsite/shared-scripts](https://github.com/pylonsite/shared-scripts) | Shared developer/maintenance scripts |
 | `sants-fitness` | [pylonsite/sants-fitness](https://github.com/pylonsite/sants-fitness) | Consumer application |
 
-## Clone
+## How to clone
 
-The submodules are private. Use the clone helper, which clones this repo and all
-submodules into a `pylonsite/` directory and switches each submodule to `main`:
+The base repo is public; the submodules are private. Download and run the
+installer from this repo:
 
 ```bash
-./clone-pylonsite.sh            # HTTPS (default)
+curl -fsSL https://raw.githubusercontent.com/pylonsite/pylonsite/main/clone-pylonsite.sh -o clone-pylonsite.sh
+chmod +x clone-pylonsite.sh
+./clone-pylonsite.sh
+```
+
+The installer assumes you already have a GitHub account. It checks for Git, walks
+you through GitHub authentication when needed, clones this workspace with
+submodules into a `pylonsite/` directory, and switches each initialized submodule
+to `main`. It creates the visible `pylonsite/` folder immediately, clones into a
+hidden temporary folder inside it, then publishes the completed checkout so
+editors do not show half-cloned submodules as file changes.
+
+If you prefer SSH:
+
+```bash
 ./clone-pylonsite.sh --ssh      # SSH
 ./clone-pylonsite.sh --help     # all options
 ```
 
-Then open the multi-root workspace:
+After cloning, open the multi-root workspace in Cursor or VS Code:
+
+**Local machine (GUI):**
 
 ```bash
-cursor pylonsite/pylonsite.code-workspace   # or: code pylonsite/pylonsite.code-workspace
+cd pylonsite
+cursor pylonsite.code-workspace
+# or: code pylonsite.code-workspace
+```
+
+**Remote SSH (e.g. home server):** the `cursor` / `code` CLI in an SSH session
+cannot talk to your desktop app. In Cursor on your local machine, connect via
+Remote SSH, then open
+`~/pylonsite-workspace/pylonsite/pylonsite.code-workspace` (or your clone path).
+
+### Manual bootstrap
+
+Same org URLs as `.gitmodules`:
+
+```bash
+git clone \
+  --recurse-submodules \
+  --filter=blob:none \
+  --jobs=8 \
+  https://github.com/pylonsite/pylonsite.git
+cd pylonsite
+git submodule foreach --recursive 'git switch main'
+```
+
+If the repo is already cloned:
+
+```bash
+git submodule sync --recursive
+git submodule update --init --recursive --jobs=8
+git submodule foreach --recursive 'git switch main'
 ```
 
 ## Access
