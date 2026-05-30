@@ -1,0 +1,23 @@
+{
+  "folders": [
+    { "path": ".", "name": "pylonsite" },
+    { "path": "shared-ui", "name": "shared-ui" },
+    { "path": "shared-lint", "name": "shared-lint" },
+    { "path": "shared-docs", "name": "shared-docs" },
+    { "path": "shared-scripts", "name": "shared-scripts" },
+    { "path": "sants-fitness", "name": "sants-fitness" }
+  ],
+  "settings": {
+    "files.autoSave": "onFocusChange",
+    "git.autoRepositoryDetection": "subFolders",
+    "git.detectSubmodules": true,
+    "files.exclude": {
+      "**/node_modules": true
+    },
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/.generated": true,
+      "pnpm-lock.yaml": true
+    }
+  }
+}

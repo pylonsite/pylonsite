@@ -1,0 +1,20 @@
+[submodule "shared-ui"]
+	path = shared-ui
+	url = https://github.com/pylonsite/shared-ui.git
+	branch = main
+[submodule "shared-lint"]
+	path = shared-lint
+	url = https://github.com/pylonsite/shared-lint.git
+	branch = main
+[submodule "shared-docs"]
+	path = shared-docs
+	url = https://github.com/pylonsite/shared-docs.git
+	branch = main
+[submodule "shared-scripts"]
+	path = shared-scripts
+	url = https://github.com/pylonsite/shared-scripts.git
+	branch = main
+[submodule "sants-fitness"]
+	path = sants-fitness
+	url = https://github.com/pylonsite/sants-fitness.git
+	branch = main
