@@ -18,3 +18,7 @@
 	path = site-sants-fitness
 	url = https://github.com/pylonsite/site-sants-fitness.git
 	branch = main
+[submodule "site-keeping-busy-hvac"]
+	path = site-keeping-busy-hvac
+	url = https://github.com/pylonsite/site-keeping-busy-hvac.git
+	branch = main

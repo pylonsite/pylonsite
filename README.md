@@ -18,6 +18,7 @@ private child-repo code (unless you have access to those repos).
 | `shared-docs` | [pylonsite/shared-docs](https://github.com/pylonsite/shared-docs) | Documentation and runbooks |
 | `shared-scripts` | [pylonsite/shared-scripts](https://github.com/pylonsite/shared-scripts) | Shared developer/maintenance scripts |
 | `site-sants-fitness` | [pylonsite/site-sants-fitness](https://github.com/pylonsite/site-sants-fitness) | Consumer application |
+| `site-keeping-busy-hvac` | [pylonsite/site-keeping-busy-hvac](https://github.com/pylonsite/site-keeping-busy-hvac) | Keeping Busy HVAC site vault (Wix upgrade) |
 
 ## How to clone
 
