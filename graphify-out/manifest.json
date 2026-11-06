@@ -1,0 +1,3458 @@
+{
+  "clone-pylonsite.sh": {
+    "mtime": 1780111283.4691784,
+    "seen": 1793933675.4967146,
+    "ast_hash": "cda96f17260b5811e168a7912f5a2c2f",
+    "semantic_hash": ""
+  },
+  "shared-lint/.c8rc.json": {
+    "mtime": 1780111383.5741844,
+    "seen": 1793933675.4967203,
+    "ast_hash": "8eb93c9759458b06f13ffe9db8ef7abe",
+    "semantic_hash": ""
+  },
+  "shared-lint/bin/shared-lint.cjs": {
+    "mtime": 1780112664.2552593,
+    "seen": 1793933675.4967232,
+    "ast_hash": "6f893e36d3dea42680b971f100b85787",
+    "semantic_hash": ""
+  },
+  "shared-lint/config/eslint.config.mjs": {
+    "mtime": 1780111383.5751843,
+    "seen": 1793933675.4967403,
+    "ast_hash": "c9585292d2ee71f53babb4ef3145fb20",
+    "semantic_hash": ""
+  },
+  "shared-lint/config/prettier.config.cjs": {
+    "mtime": 1780111383.5751843,
+    "seen": 1793933675.4967434,
+    "ast_hash": "d93e5480cb1af896aac3b43b1f2e97ef",
+    "semantic_hash": ""
+  },
+  "shared-lint/config/shared/eslint.cjs": {
+    "mtime": 1780111383.5751843,
+    "seen": 1793933675.4967496,
+    "ast_hash": "b21fa763a3237a702dfde697abdf4062",
+    "semantic_hash": ""
+  },
+  "shared-lint/config/shared/prettier.cjs": {
+    "mtime": 1780111383.5751843,
+    "seen": 1793933675.4967532,
+    "ast_hash": "a04c608bf2d8822fce14512a7a21c213",
+    "semantic_hash": ""
+  },
+  "shared-lint/config/shared/stylelint.cjs": {
+    "mtime": 1780111383.5751843,
+    "seen": 1793933675.4967563,
+    "ast_hash": "f7b0d57f397e436a8b14a1f7e62e6d73",
+    "semantic_hash": ""
+  },
+  "shared-lint/config/stylelint.config.cjs": {
+    "mtime": 1780111383.5751843,
+    "seen": 1793933675.4967582,
+    "ast_hash": "98f5466fd9234a2429ce84f1e24d0d56",
+    "semantic_hash": ""
+  },
+  "shared-lint/index.cjs": {
+    "mtime": 1780111383.5751843,
+    "seen": 1793933675.4967601,
+    "ast_hash": "f40124d5cf2361397aebf901ba1720ab",
+    "semantic_hash": ""
+  },
+  "shared-lint/lib/shared.cjs": {
+    "mtime": 1780111383.5751843,
+    "seen": 1793933675.4967618,
+    "ast_hash": "05bc24551228d7c7b11a4dc4239e1f8b",
+    "semantic_hash": ""
+  },
+  "shared-lint/package.json": {
+    "mtime": 1780112660.9252589,
+    "seen": 1793933675.496765,
+    "ast_hash": "4cdb9fead3f358f4eb319bc0f0f10d7e",
+    "semantic_hash": ""
+  },
+  "shared-lint/shared-lint.config.cjs": {
+    "mtime": 1780112078.0922248,
+    "seen": 1793933675.4967675,
+    "ast_hash": "e075b53d32b38871b21fef7fe4ee4fbf",
+    "semantic_hash": ""
+  },
+  "shared-lint/tests/unit/cli.test.cjs": {
+    "mtime": 1780112078.0922248,
+    "seen": 1793933675.49677,
+    "ast_hash": "e390b3466be1437cdca761da1a40d090",
+    "semantic_hash": ""
+  },
+  "shared-lint/tests/unit/index.test.cjs": {
+    "mtime": 1780111383.5761843,
+    "seen": 1793933675.4967728,
+    "ast_hash": "10fb1ca90756b533f0cacbb5f4624366",
+    "semantic_hash": ""
+  },
+  "shared-lint/tests/unit/shared.test.cjs": {
+    "mtime": 1780111383.5761843,
+    "seen": 1793933675.496775,
+    "ast_hash": "6c473cfeefc3833e96c02ff9e8db91fc",
+    "semantic_hash": ""
+  },
+  "shared-scripts/bin/rotate-keys.sh": {
+    "mtime": 1780111386.3111844,
+    "seen": 1793933675.4967773,
+    "ast_hash": "f41e896f1fb064ec8a461e1663c599d2",
+    "semantic_hash": ""
+  },
+  "shared-scripts/bin/submodules-status.sh": {
+    "mtime": 1780111386.3111844,
+    "seen": 1793933675.4967792,
+    "ast_hash": "470401ca0f4b59111302519089e22766",
+    "semantic_hash": ""
+  },
+  "shared-ui/.c8rc.json": {
+    "mtime": 1780111381.0801842,
+    "seen": 1793933675.4967813,
+    "ast_hash": "954d458f250b2e29bc59af0171f515b9",
+    "semantic_hash": ""
+  },
+  "shared-ui/.githooks/pre-commit": {
+    "mtime": 1780112078.0392249,
+    "seen": 1793933675.4967833,
+    "ast_hash": "6df72ca75572b5c9831dedf346c8d1a3",
+    "semantic_hash": ""
+  },
+  "shared-ui/.githooks/pre-push": {
+    "mtime": 1780112078.0462248,
+    "seen": 1793933675.4967859,
+    "ast_hash": "5d64acc3f0d6ff07a3a54dcdbe6ec5d8",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/app/entrypoints/admin.js": {
+    "mtime": 1780111381.0801842,
+    "seen": 1793933675.496788,
+    "ast_hash": "54a21a27a2a7f0b3c09da59519fd5658",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/app/entrypoints/admin.ts": {
+    "mtime": 1780111381.0801842,
+    "seen": 1793933675.4967902,
+    "ast_hash": "62721d7e3e42ca7d5705807e1a364ccc",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/app/entrypoints/public.js": {
+    "mtime": 1780111381.0801842,
+    "seen": 1793933675.496792,
+    "ast_hash": "29615aec079e395da4b9a2ae1027a5b6",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/app/entrypoints/public.ts": {
+    "mtime": 1780111381.0801842,
+    "seen": 1793933675.4967947,
+    "ast_hash": "ee52770668ff7a33b1457fffcf293d09",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/app/entrypoints/secure.js": {
+    "mtime": 1780111381.0811841,
+    "seen": 1793933675.4967966,
+    "ast_hash": "46056546120cf6a0136959e65c7c23d3",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/app/entrypoints/secure.ts": {
+    "mtime": 1780111381.0811841,
+    "seen": 1793933675.4967988,
+    "ast_hash": "1b44f3c6789ef43c3831e5c2c1c627c6",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/app/shared/asset-contract.ts": {
+    "mtime": 1780111381.0811841,
+    "seen": 1793933675.4968014,
+    "ast_hash": "f7729cd5de0e22dd6b10942afe6f7b6f",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/app/shared/template-assets.ts": {
+    "mtime": 1780111381.0811841,
+    "seen": 1793933675.4968033,
+    "ast_hash": "4636d6c9489e58bae9812f114307d49a",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/api.js": {
+    "mtime": 1780112164.16323,
+    "seen": 1793933675.4968054,
+    "ast_hash": "3cfd31a312a3924908dfdc6952b14741",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/app.js": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.496807,
+    "ast_hash": "dcf5a14ac64f67ae135cb745d13d886e",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/init.js": {
+    "mtime": 1780112078.065225,
+    "seen": 1793933675.4968088,
+    "ast_hash": "b1d99c020493f90a058d057bf02d35cf",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/auth/alt-auth-buttons.js": {
+    "mtime": 1780112078.065225,
+    "seen": 1793933675.4968107,
+    "ast_hash": "cad51798c4738145e212baa016269a89",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/auth/auth.js": {
+    "mtime": 1780112332.8802397,
+    "seen": 1793933675.496813,
+    "ast_hash": "32fadae97483609bc84764fbeccbb30a",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/auth/dom-bindings.js": {
+    "mtime": 1780112078.0662248,
+    "seen": 1793933675.4968152,
+    "ast_hash": "5da9d98f2de5501783a09eea93430dd4",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/auth/entry-fallback.js": {
+    "mtime": 1780112078.0662248,
+    "seen": 1793933675.4968169,
+    "ast_hash": "ddb414be0711366fe25895c7e980b44f",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/auth/turnstile.js": {
+    "mtime": 1780112078.067225,
+    "seen": 1793933675.4968185,
+    "ast_hash": "d34be24fb23a6d3d626ebd789c614de7",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/bootstrap/lazy-routes.js": {
+    "mtime": 1780112078.067225,
+    "seen": 1793933675.49682,
+    "ast_hash": "e5079bed89ac3d77443f6258b73acc96",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/components/control-ui.js": {
+    "mtime": 1780112078.067225,
+    "seen": 1793933675.4968212,
+    "ast_hash": "0e5c756fe07d9ffed43f98984341b78c",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/components/formatting.js": {
+    "mtime": 1780112078.067225,
+    "seen": 1793933675.4968226,
+    "ast_hash": "ef817e68374cc07c1c76b20c9b7b96b0",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/components/modal-ui.js": {
+    "mtime": 1780112078.068225,
+    "seen": 1793933675.4972038,
+    "ast_hash": "b36446bef9907b5cfc37a8691babc671",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/components/table-scrollbars.js": {
+    "mtime": 1780112078.068225,
+    "seen": 1793933675.49721,
+    "ast_hash": "07f1d4912b4f97e6ed628301410cb15b",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/components/table.js": {
+    "mtime": 1780112078.068225,
+    "seen": 1793933675.4972126,
+    "ast_hash": "fe513c803dedff170a5dad87477fbce4",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/cookies/consent.js": {
+    "mtime": 1780112289.0092373,
+    "seen": 1793933675.4972303,
+    "ast_hash": "abc16cda7b526c0af4d2c67fda5e96a8",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/cookies/popup-ui.js": {
+    "mtime": 1780112078.0692248,
+    "seen": 1793933675.4972324,
+    "ast_hash": "0edd4516ff2f3ef21a8e0cf91beec8ae",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/cookies/preferences-service.js": {
+    "mtime": 1780112078.0692248,
+    "seen": 1793933675.4972339,
+    "ast_hash": "e4360d608623b8f38a45629c3e5947f5",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/forms/card-field-runtime.js": {
+    "mtime": 1780112078.0692248,
+    "seen": 1793933675.4972358,
+    "ast_hash": "7fabb48251a771c5f303e449df9da6f3",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/forms/card-fields.js": {
+    "mtime": 1780112078.070225,
+    "seen": 1793933675.4972377,
+    "ast_hash": "4a942b1b4cf9714b7432f5abe2270684",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/forms/field-validation.js": {
+    "mtime": 1780112381.8262427,
+    "seen": 1793933675.4972398,
+    "ast_hash": "7720a9be9f135df64fb8befa921c3e62",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/forms/form-draft.js": {
+    "mtime": 1780112078.070225,
+    "seen": 1793933675.4972413,
+    "ast_hash": "4923bb8c4eb5ef89e9dc7e094abda269",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/forms/form-helpers.js": {
+    "mtime": 1780112380.6022427,
+    "seen": 1793933675.4972432,
+    "ast_hash": "4c8a5720255ab286eacf4f45d6fe52fb",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/forms/form-ui.js": {
+    "mtime": 1780112078.071225,
+    "seen": 1793933675.4972446,
+    "ast_hash": "f0c8ba9e054e48278506631896a8bd89",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/forms/required-field-sync.js": {
+    "mtime": 1780112078.071225,
+    "seen": 1793933675.4972463,
+    "ast_hash": "2eacd2dcd5ae31452d8032b350385cbd",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shared/app-shell-fallbacks.js": {
+    "mtime": 1780112078.0722249,
+    "seen": 1793933675.497248,
+    "ast_hash": "f44a5057313044b1c8e2253323b460d7",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shared/card-refresh.js": {
+    "mtime": 1780111381.098184,
+    "seen": 1793933675.4972496,
+    "ast_hash": "0a3f3ae67ae786bc76c72708055fc8f8",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shared/context.js": {
+    "mtime": 1780112920.4712741,
+    "seen": 1793933675.4972513,
+    "ast_hash": "edb6338e4f10cb4c2d53dd2f69af0de2",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shared/enhancements.js": {
+    "mtime": 1780112078.0722249,
+    "seen": 1793933675.4972532,
+    "ast_hash": "586f6163000a4003bccd5930e47f0147",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shared/legal-policy-links.js": {
+    "mtime": 1780112078.073225,
+    "seen": 1793933675.4972553,
+    "ast_hash": "d57a3f564f170bed2b770c396c65daa6",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shared/logger.js": {
+    "mtime": 1780112379.5052426,
+    "seen": 1793933675.4972568,
+    "ast_hash": "ae48ab02c8aab787c2457695c802a7ef",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shared/resend-email-verification-fallback.js": {
+    "mtime": 1780112078.073225,
+    "seen": 1793933675.4972582,
+    "ast_hash": "7896e61b914983470c67d2fe8d51451d",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shared/theme-storage-service.js": {
+    "mtime": 1780112078.073225,
+    "seen": 1793933675.4972599,
+    "ast_hash": "5871623defc8800ff3c67697f710b703",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shared/utils.js": {
+    "mtime": 1780112078.074225,
+    "seen": 1793933675.4972613,
+    "ast_hash": "2a56fb02ef9584bdb318e8918a6ba163",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/banner-dismiss.js": {
+    "mtime": 1780111381.0991843,
+    "seen": 1793933675.4972632,
+    "ast_hash": "17249f6275151ab4c578abce24314e17",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/banner-module-hooks.js": {
+    "mtime": 1780111381.0991843,
+    "seen": 1793933675.4972646,
+    "ast_hash": "8c8789f769f79540bfdbcdcf1528a416",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/boot-release.js": {
+    "mtime": 1780112078.0752249,
+    "seen": 1793933675.4972665,
+    "ast_hash": "1bef947c5a600e39fb4e018f3c004e86",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/bootstrap.js": {
+    "mtime": 1780112306.0672383,
+    "seen": 1793933675.497268,
+    "ast_hash": "9614c8bb7baf722bace9cbca54745866",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/cookie-footer-ui.js": {
+    "mtime": 1780112349.4712408,
+    "seen": 1793933675.4972692,
+    "ast_hash": "9b9a03e38a9dd9ce4977c74b42a4f67f",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/cookie-preferences-storage.js": {
+    "mtime": 1780111381.1001842,
+    "seen": 1793933675.4972708,
+    "ast_hash": "4eb79c533463aa36111d427a29135e61",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/cookie-preferences.js": {
+    "mtime": 1780111381.1001842,
+    "seen": 1793933675.4972723,
+    "ast_hash": "54340f2938a4dd02350cabacc29ba553",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/cookie-rail.js": {
+    "mtime": 1780111381.1001842,
+    "seen": 1793933675.4972742,
+    "ast_hash": "2e2ed76b8f1c10d862f7adcd09c9067e",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/guest-auth.js": {
+    "mtime": 1780112245.0492346,
+    "seen": 1793933675.4972756,
+    "ast_hash": "40f2b4f4fcce54d32930010f5490d2d8",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/history-restore-guard.js": {
+    "mtime": 1780112078.0762248,
+    "seen": 1793933675.497277,
+    "ast_hash": "18ce05c80e24a933981944976e1b7587",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/lazy-init.js": {
+    "mtime": 1780111381.1001842,
+    "seen": 1793933675.497279,
+    "ast_hash": "07ff41d23fc908baa43d550e5912681f",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/maintenance-banner.js": {
+    "mtime": 1780112078.077225,
+    "seen": 1793933675.4972804,
+    "ast_hash": "bb808fb376178ce9d52460c1d2991496",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/maintenance-runtime.js": {
+    "mtime": 1780112078.077225,
+    "seen": 1793933675.4972816,
+    "ast_hash": "29bb005a7ca2015b29715826b7a346c4",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/menu-drawer.js": {
+    "mtime": 1780112320.4932392,
+    "seen": 1793933675.4972832,
+    "ast_hash": "4cd731bd6937b36b630aa3ed3c91155f",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/menu-toggle-runtime.js": {
+    "mtime": 1780112078.078225,
+    "seen": 1793933675.497285,
+    "ast_hash": "9ac9ef2223bfa418bcbde2794b2d7181",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/navigation-timing.js": {
+    "mtime": 1780111381.1001842,
+    "seen": 1793933675.497286,
+    "ast_hash": "f459a222b9096031eebb16c1358b03fe",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/page-scrollbar.js": {
+    "mtime": 1780112078.0792248,
+    "seen": 1793933675.4972882,
+    "ast_hash": "2f5da239b9522126f52fb46258522c25",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/pointer-env.js": {
+    "mtime": 1780112078.0792248,
+    "seen": 1793933675.4972894,
+    "ast_hash": "91a8a34b6cf451e3f46e55dba2954871",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/scroll-chrome.js": {
+    "mtime": 1780112078.0792248,
+    "seen": 1793933675.497291,
+    "ast_hash": "848d2b5ba0449dcdf22ec7114c606d78",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/shell-context.js": {
+    "mtime": 1780112304.640238,
+    "seen": 1793933675.4972923,
+    "ast_hash": "d7a28008a7a44a49922f22f1f7d55266",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/shell-listeners.js": {
+    "mtime": 1780111381.1001842,
+    "seen": 1793933675.4972937,
+    "ast_hash": "ec11c3363792de1b8f43ed32d77c430f",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/shell-orchestrator.js": {
+    "mtime": 1780111381.1001842,
+    "seen": 1793933675.4972954,
+    "ast_hash": "c040d7f01aff94d9efe44a9062c1a3f6",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/shell-runtime-entry.js": {
+    "mtime": 1780111381.1001842,
+    "seen": 1793933675.4972968,
+    "ast_hash": "8447735c8a49136a677957b3cdd9c239",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/shell-runtime.js": {
+    "mtime": 1780111381.1001842,
+    "seen": 1793933675.4972987,
+    "ast_hash": "f294a8871d7074d22b7cfcad128ec960",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/shell-services.js": {
+    "mtime": 1780112376.8462424,
+    "seen": 1793933675.497302,
+    "ast_hash": "916d9faeca4a470b1825b708228488f4",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/theme-favicon.js": {
+    "mtime": 1780111381.1011841,
+    "seen": 1793933675.4973032,
+    "ast_hash": "5cc3845132c4150801982750508632ce",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/tooltips.js": {
+    "mtime": 1780112078.080225,
+    "seen": 1793933675.4973052,
+    "ast_hash": "17995c32ee50970652a2b0efcc459bbc",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/top-banner-core.js": {
+    "mtime": 1780111381.1011841,
+    "seen": 1793933675.4973063,
+    "ast_hash": "fc8bbe37802e69f1a20539c35f83f96c",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/top-banner-drawer.js": {
+    "mtime": 1780111381.1011841,
+    "seen": 1793933675.497308,
+    "ast_hash": "dd7afce16d0d43d82230c300a913bdec",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/top-banner-gestures.js": {
+    "mtime": 1780111381.1011841,
+    "seen": 1793933675.4973094,
+    "ast_hash": "d0930ae502e5e89ea7d1245b2989c339",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/top-banner.js": {
+    "mtime": 1780112078.081225,
+    "seen": 1793933675.4973109,
+    "ast_hash": "6c0aae33c1c0e7405c44fafae35c2183",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/topbar-runtime.js": {
+    "mtime": 1780112078.081225,
+    "seen": 1793933675.4973123,
+    "ast_hash": "cf9f48df5db0b4e2a999a7bc599436ac",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/viewport-sync.js": {
+    "mtime": 1780111381.1011841,
+    "seen": 1793933675.4973137,
+    "ast_hash": "36d1006d9b29f77a69370321639564fe",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/zoom-lock.js": {
+    "mtime": 1780111381.1011841,
+    "seen": 1793933675.4973152,
+    "ast_hash": "0f13176be0d57147887e7a2628c319f3",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/template-first-paint-body.js": {
+    "mtime": 1780112371.3102422,
+    "seen": 1793933675.4973168,
+    "ast_hash": "9e688a7330251a936773ebd8fa7150c5",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/template-first-paint-head.js": {
+    "mtime": 1780112369.961242,
+    "seen": 1793933675.497318,
+    "ast_hash": "347ce1221d24c7f29ddfaac388b5044c",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/vendor/simplewebauthn.umd.min.js": {
+    "mtime": 1780111381.1011841,
+    "seen": 1793933675.49732,
+    "ast_hash": "547bf96416733ad062f750fe1425b6fe",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/vendor/flatpickr/flatpickr.min.js": {
+    "mtime": 1780111381.1021843,
+    "seen": 1793933675.4973218,
+    "ast_hash": "19f49a9a1665777b11b2004ff4926d92",
+    "semantic_hash": ""
+  },
+  "shared-ui/config/eslint.config.mjs": {
+    "mtime": 1780112078.083225,
+    "seen": 1793933675.4973235,
+    "ast_hash": "39ed4e62a306879fa4c70145a473598c",
+    "semantic_hash": ""
+  },
+  "shared-ui/config/prettier.config.cjs": {
+    "mtime": 1780112078.083225,
+    "seen": 1793933675.4973257,
+    "ast_hash": "388111421e46b24b0198312b93c311a7",
+    "semantic_hash": ""
+  },
+  "shared-ui/config/stylelint.config.cjs": {
+    "mtime": 1780112078.083225,
+    "seen": 1793933675.497327,
+    "ast_hash": "7614ac6c0b180fb2a99f8c4689e3d936",
+    "semantic_hash": ""
+  },
+  "shared-ui/package.json": {
+    "mtime": 1780112648.2652583,
+    "seen": 1793933675.4973283,
+    "ast_hash": "7f4f01ed4824a13ba0f1251ed8a17935",
+    "semantic_hash": ""
+  },
+  "shared-ui/packages/page-pipeline/footer-app-version.d.mts": {
+    "mtime": 1780111381.1031842,
+    "seen": 1793933675.49733,
+    "ast_hash": "fc0f48983e5b34450d291d5bea89c761",
+    "semantic_hash": ""
+  },
+  "shared-ui/packages/page-pipeline/footer-app-version.mjs": {
+    "mtime": 1780111381.1031842,
+    "seen": 1793933675.4973314,
+    "ast_hash": "f3c0bf0a477d6ea16590e746601be40b",
+    "semantic_hash": ""
+  },
+  "shared-ui/packages/page-pipeline/inline-template-secure-admin-card.mjs": {
+    "mtime": 1780112621.8352568,
+    "seen": 1793933675.4973328,
+    "ast_hash": "b2fb159995b0505e72954027ef9cc1b6",
+    "semantic_hash": ""
+  },
+  "shared-ui/packages/page-pipeline/inline-template-shared-banner.mjs": {
+    "mtime": 1780112631.4872572,
+    "seen": 1793933675.4973342,
+    "ast_hash": "2f1c55c596c7612852a8ea77ab4b127e",
+    "semantic_hash": ""
+  },
+  "shared-ui/packages/page-pipeline/inline-template-shared-chrome.mjs": {
+    "mtime": 1780112628.9952571,
+    "seen": 1793933675.4973354,
+    "ast_hash": "d67c87b5a4b88c91795772bc74542a43",
+    "semantic_hash": ""
+  },
+  "shared-ui/packages/page-pipeline/package.json": {
+    "mtime": 1780112078.0852249,
+    "seen": 1793933675.4973373,
+    "ast_hash": "ac9daa56a98911ef913cf97a9be58599",
+    "semantic_hash": ""
+  },
+  "shared-ui/packages/shared-api/package.json": {
+    "mtime": 1780112078.084225,
+    "seen": 1793933675.4990149,
+    "ast_hash": "bd419efdfa0c560eccc65923010e2fc4",
+    "semantic_hash": ""
+  },
+  "shared-ui/packages/shared-api/src/index.cjs": {
+    "mtime": 1780112632.9352574,
+    "seen": 1793933675.4990313,
+    "ast_hash": "0e85a9a9c5b0d5a638be4ad9c286e28e",
+    "semantic_hash": ""
+  },
+  "shared-ui/packages/shared-api/src/routes.cjs": {
+    "mtime": 1780112164.17223,
+    "seen": 1793933675.499034,
+    "ast_hash": "3fc13112dfd33562b49279ac296a8a47",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/registry.json": {
+    "mtime": 1780111381.1041842,
+    "seen": 1793933675.4990375,
+    "ast_hash": "7213d86b72b1411a0af72220b004cc22",
+    "semantic_hash": ""
+  },
+  "shared-ui/shared-lint.config.cjs": {
+    "mtime": 1780112078.083225,
+    "seen": 1793933675.4990394,
+    "ast_hash": "c985985f5a000ad11ebc0ddc7b46e59f",
+    "semantic_hash": ""
+  },
+  "shared-ui/tests/helpers/insecure-shell-path.mjs": {
+    "mtime": 1780112684.9122603,
+    "seen": 1793933675.4990418,
+    "ast_hash": "a6b0d3d51766101f5da4012f32f291cb",
+    "semantic_hash": ""
+  },
+  "shared-ui/tests/helpers/quiet-assert.cjs": {
+    "mtime": 1780111381.1041842,
+    "seen": 1793933675.4990442,
+    "ast_hash": "41e118daa8d1747aab595f1b7008242d",
+    "semantic_hash": ""
+  },
+  "shared-ui/tests/helpers/test-fs.cjs": {
+    "mtime": 1780112078.088225,
+    "seen": 1793933675.4990458,
+    "ast_hash": "78173817c9ab5ca47655df3781be495d",
+    "semantic_hash": ""
+  },
+  "shared-ui/tests/unit/build.test.cjs": {
+    "mtime": 1780112164.17723,
+    "seen": 1793933675.4990478,
+    "ast_hash": "1808dc33ecfc1d580dc388f15855573d",
+    "semantic_hash": ""
+  },
+  "shared-ui/tests/unit/core-packages.test.cjs": {
+    "mtime": 1780112670.2782595,
+    "seen": 1793933675.499049,
+    "ast_hash": "8360dfe75d83a84ebd0c7e132156181a",
+    "semantic_hash": ""
+  },
+  "shared-ui/tests/unit/inline-template-secure-admin-card.test.mjs": {
+    "mtime": 1780112674.3732598,
+    "seen": 1793933675.4990516,
+    "ast_hash": "781e19a33b566f9eb0d61c0658d900c3",
+    "semantic_hash": ""
+  },
+  "shared-ui/tests/unit/inline-template-shared-banner.test.mjs": {
+    "mtime": 1780112695.879261,
+    "seen": 1793933675.499053,
+    "ast_hash": "2b11bd1569eda7436cb443d74f3f08d8",
+    "semantic_hash": ""
+  },
+  "shared-ui/tests/unit/inline-template-shared-chrome.test.mjs": {
+    "mtime": 1780111381.1061842,
+    "seen": 1793933675.4990547,
+    "ast_hash": "5da106268bc8181cee24f0341e1eee12",
+    "semantic_hash": ""
+  },
+  "shared-ui/tests/unit/install-git-hooks.test.cjs": {
+    "mtime": 1780112078.088225,
+    "seen": 1793933675.4990563,
+    "ast_hash": "5b9b1c3ecb1ef951b87657788aae8fc0",
+    "semantic_hash": ""
+  },
+  "shared-ui/tests/unit/public-drawer-menu.test.cjs": {
+    "mtime": 1780111381.1061842,
+    "seen": 1793933675.499058,
+    "ast_hash": "671839e0096cd1340b52a2ca847bf12d",
+    "semantic_hash": ""
+  },
+  "shared-ui/tests/unit/sync.test.cjs": {
+    "mtime": 1780112673.1822598,
+    "seen": 1793933675.4990597,
+    "ast_hash": "c92c0f8a1793ca6cd5278dd7ef5acf42",
+    "semantic_hash": ""
+  },
+  "shared-ui/tools/build.cjs": {
+    "mtime": 1780112164.17823,
+    "seen": 1793933675.4990616,
+    "ast_hash": "40cb9eff055e8a85ee3d669d2e305ef7",
+    "semantic_hash": ""
+  },
+  "shared-ui/tools/install-git-hooks.cjs": {
+    "mtime": 1780112078.0892248,
+    "seen": 1793933675.4990633,
+    "ast_hash": "07aa46b2cf4a1f57ea5e0e727e855948",
+    "semantic_hash": ""
+  },
+  "shared-ui/tools/sync.cjs": {
+    "mtime": 1780112647.0492582,
+    "seen": 1793933675.499065,
+    "ast_hash": "b3cd16abbf08a394ea4bc24e67e2f385",
+    "semantic_hash": ""
+  },
+  "shared-ui/tools/write-coverage-summary.cjs": {
+    "mtime": 1780112078.090225,
+    "seen": 1793933675.4990666,
+    "ast_hash": "79cadf256da3d4f9c65e2fca7de8d05f",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/.agents/skills/dimensional-drawing-motion/adapters/headless/package.json": {
+    "mtime": 1793139693.639076,
+    "seen": 1793933675.4990687,
+    "ast_hash": "c55f901e18e4d8ca34e7568e14117e8f",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/.agents/skills/dimensional-drawing-motion/adapters/headless/render.mjs": {
+    "mtime": 1793139693.6400762,
+    "seen": 1793933675.4990704,
+    "ast_hash": "d87c7421608d2cb14500b1449a8efb75",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/.agents/skills/dimensional-drawing-motion/templates/scene-dialog.js": {
+    "mtime": 1793139693.6400762,
+    "seen": 1793933675.4990723,
+    "ast_hash": "d92e01f09149a30bbc11975fc3891fa6",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/manifest.json": {
+    "mtime": 1793155462.1530976,
+    "seen": 1793933675.499074,
+    "ast_hash": "714590fd1a72caada22ad584d339e2eb",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/serve.py": {
+    "mtime": 1793933409.197209,
+    "seen": 1793933675.4990761,
+    "ast_hash": "ba1c00e67247e3d8aebca8da50e4941a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/exports/blog-archive/home-copy-scrape.json": {
+    "mtime": 1793139694.0561042,
+    "seen": 1793933675.4990776,
+    "ast_hash": "c49ca726534088c0ae9b25849d57d2be",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/exports/blog-archive/index.json": {
+    "mtime": 1793139694.0561042,
+    "seen": 1793933675.4990795,
+    "ast_hash": "5fd95b55b6b45aa6dbc89bcd17f63382",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/exports/discovery.json": {
+    "mtime": 1793139694.0721052,
+    "seen": 1793933675.4990811,
+    "ast_hash": "ddcc1f98921304758561fe0eddc1ceb6",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/dimensional/_preview/_measured-home.json": {
+    "mtime": 1793139694.0721052,
+    "seen": 1793933675.4990833,
+    "ast_hash": "0bef8b6fb701acbd56d883b31aa4d87a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/parallax-frame.js": {
+    "mtime": 1793155571.7056723,
+    "seen": 1793933675.4990847,
+    "ast_hash": "96d7e3c5193b7e3db21c6705263645b9",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/shared-menu.js": {
+    "mtime": 1793152371.2991135,
+    "seen": 1793933675.4990864,
+    "ast_hash": "6997ab6a70b07be5314278c096635252",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/slide-in.js": {
+    "mtime": 1793163004.966204,
+    "seen": 1793933675.4990876,
+    "ast_hash": "a623f6ff3e790179eb54f83e1024eab4",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/zip-check.js": {
+    "mtime": 1793152371.6561255,
+    "seen": 1793933675.4990892,
+    "ast_hash": "c605826e8c8abc94a1d54d48648b949a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/package.json": {
+    "mtime": 1793158513.2791307,
+    "seen": 1793933675.499091,
+    "ast_hash": "28f401cf7ff6e0b8d1489e13646d2c5d",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/scripts/build-approval-pptx.py": {
+    "mtime": 1793161326.8617108,
+    "seen": 1793933675.4990926,
+    "ast_hash": "19905e6958407eed7a21d7e1afa2b601",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/scripts/build-service-agreement.py": {
+    "mtime": 1793218180.497895,
+    "seen": 1793933675.499094,
+    "ast_hash": "aef405388209a9846583bcbdab54b3d0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/scripts/capture-mockup-screenshots.mjs": {
+    "mtime": 1793158818.6949286,
+    "seen": 1793933675.4990954,
+    "ast_hash": "0009bb7180ff64a6994dd121aa0bff2a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/scripts/capture-screenshots.mjs": {
+    "mtime": 1793139694.3141215,
+    "seen": 1793933675.4990973,
+    "ast_hash": "2b804ca037aa7cfa7b1e01033b5c0fc6",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/scripts/pages.json": {
+    "mtime": 1793139694.3141215,
+    "seen": 1793933675.4990985,
+    "ast_hash": "d130edc4e533ef4aab5cfe483b5e542b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/skills-lock.json": {
+    "mtime": 1793139694.3141215,
+    "seen": 1793933675.4991002,
+    "ast_hash": "bb7a1f6e72eafc9f40be0852572e3103",
+    "semantic_hash": ""
+  },
+  "site-sants-fitness/package.json": {
+    "mtime": 1780113483.543307,
+    "seen": 1793933675.4991016,
+    "ast_hash": "5fcb561bb8bd433958b50d559a6f19f6",
+    "semantic_hash": ""
+  },
+  "site-sants-fitness/scripts/generate-build-id.cjs": {
+    "mtime": 1780114393.4563603,
+    "seen": 1793933675.4991035,
+    "ast_hash": "a3a863f2c2681661c4424728be37f714",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1793139694.5401368,
+    "seen": 1793933675.4991055,
+    "ast_hash": "c286c1c71534d1948eda5dc730a59a15",
+    "semantic_hash": ""
+  },
+  "shared-docs/KEY-ROTATION.md": {
+    "mtime": 1780111384.9271843,
+    "seen": 1793933675.4991076,
+    "ast_hash": "45969d73283945ce029575e77607943a",
+    "semantic_hash": ""
+  },
+  "shared-docs/README.md": {
+    "mtime": 1786747929.1927474,
+    "seen": 1793933675.499109,
+    "ast_hash": "e98ef1f6c6338d6df6e07ef08e614a3d",
+    "semantic_hash": ""
+  },
+  "shared-docs/getting-started.md": {
+    "mtime": 1780113480.9933069,
+    "seen": 1793933675.499111,
+    "ast_hash": "824f4304eb53527140341f1a1c764632",
+    "semantic_hash": ""
+  },
+  "shared-lint/.github/workflows/ci.yml": {
+    "mtime": 1780112078.090225,
+    "seen": 1793933675.4991124,
+    "ast_hash": "5658e7c7baa018ed62067ae29cd470d0",
+    "semantic_hash": ""
+  },
+  "shared-lint/.github/workflows/pr-auto-labels.yml": {
+    "mtime": 1780112706.1862617,
+    "seen": 1793933675.4991148,
+    "ast_hash": "5964aa37f561843e32919e3a8d488c95",
+    "semantic_hash": ""
+  },
+  "shared-lint/.github/workflows/pr-suggestions.yml": {
+    "mtime": 1780111383.5751843,
+    "seen": 1793933675.4991167,
+    "ast_hash": "e232f5e69ba25cd50ae87586905cbbf4",
+    "semantic_hash": ""
+  },
+  "shared-lint/.github/workflows/release-package.yml": {
+    "mtime": 1780112078.091225,
+    "seen": 1793933675.4991183,
+    "ast_hash": "4ab47a79cb5843edc3ff2b4ae3aa041a",
+    "semantic_hash": ""
+  },
+  "shared-lint/README.md": {
+    "mtime": 1780112651.4132583,
+    "seen": 1793933675.4991198,
+    "ast_hash": "ffed63c1668b7efc9b70584d61227227",
+    "semantic_hash": ""
+  },
+  "shared-scripts/README.md": {
+    "mtime": 1786747929.07776,
+    "seen": 1793933675.4991217,
+    "ast_hash": "3eba14384c9fb909e1b0a3312788ed60",
+    "semantic_hash": ""
+  },
+  "shared-ui/.github/workflows/ci.yml": {
+    "mtime": 1780112078.047225,
+    "seen": 1793933675.4991236,
+    "ast_hash": "be6e1637161a1b34190e105ca3e0e876",
+    "semantic_hash": ""
+  },
+  "shared-ui/.github/workflows/pr-auto-labels.yml": {
+    "mtime": 1780112704.0062616,
+    "seen": 1793933675.499125,
+    "ast_hash": "5964aa37f561843e32919e3a8d488c95",
+    "semantic_hash": ""
+  },
+  "shared-ui/.github/workflows/pr-suggestions.yml": {
+    "mtime": 1780111381.0801842,
+    "seen": 1793933675.4991264,
+    "ast_hash": "e232f5e69ba25cd50ae87586905cbbf4",
+    "semantic_hash": ""
+  },
+  "shared-ui/.github/workflows/release-package.yml": {
+    "mtime": 1780112078.047225,
+    "seen": 1793933675.4991283,
+    "ast_hash": "f1f7e6fd1c06e88e9584bba8af2d1ebc",
+    "semantic_hash": ""
+  },
+  "shared-ui/README.md": {
+    "mtime": 1780112470.751248,
+    "seen": 1793933675.4991307,
+    "ast_hash": "ec95fa32f7b11845cb56ad3daed26b66",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/README.md": {
+    "mtime": 1780112604.3282557,
+    "seen": 1793933675.4991324,
+    "ast_hash": "ab6db93dce35e68f3bf3838da5d3f417",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/css/template-contract/README.md": {
+    "mtime": 1780112588.6702547,
+    "seen": 1793933675.4991348,
+    "ast_hash": "6e08792b38cfed868205d1b77df6688e",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/README.md": {
+    "mtime": 1780112643.267258,
+    "seen": 1793933675.499137,
+    "ast_hash": "9096b8b546bb918ee82054ea5003846f",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/js/template/shell/RUNTIME.md": {
+    "mtime": 1780112633.5572574,
+    "seen": 1793933675.4991388,
+    "ast_hash": "e0a1d0d5265ab8b96cc391e880249bb3",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/ARCHITECTURE.md": {
+    "mtime": 1780112572.1772537,
+    "seen": 1793933675.4991481,
+    "ast_hash": "9a798055b5ed48206d4986ab73a97583",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/README.md": {
+    "mtime": 1780112621.1232567,
+    "seen": 1793933675.49915,
+    "ast_hash": "142a56ebb0af65521fc2ce771d6f79bd",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/README.md": {
+    "mtime": 1780112615.0492563,
+    "seen": 1793933675.499152,
+    "ast_hash": "30354f1e23415a8ccf4e156fb9753cbf",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/public/base.html": {
+    "mtime": 1780112542.578252,
+    "seen": 1793933675.4991539,
+    "ast_hash": "e77223497764ea4b0c5e6d7d8c551c77",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/secure/admin/base.html": {
+    "mtime": 1780112542.584252,
+    "seen": 1793933675.499156,
+    "ast_hash": "592dbc0a84486606ab023b79c38aa2db",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/secure/admin/template-secure-admin-card.html": {
+    "mtime": 1780112542.585252,
+    "seen": 1793933675.499158,
+    "ast_hash": "9a79b8c2a0231b1afeee304d6781e0d6",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/secure/base.html": {
+    "mtime": 1780112542.585252,
+    "seen": 1793933675.4991598,
+    "ast_hash": "9ca20c003269ef7223e28a606aa8584d",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/shared/template-shared-alert-banner.html": {
+    "mtime": 1780111381.1041842,
+    "seen": 1793933675.4991622,
+    "ast_hash": "fe9c18d92f613dc17aa9aa5bec949f66",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/shared/template-shared-card.html": {
+    "mtime": 1780112542.585252,
+    "seen": 1793933675.4991643,
+    "ast_hash": "75cf481c475e6dc98ade2b0418dd3c75",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/shared/template-shared-cookie-surfaces.html": {
+    "mtime": 1780111381.1041842,
+    "seen": 1793933675.4991665,
+    "ast_hash": "0cd8168f382bc1bc17a25379a85f1691",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/shared/template-shared-empty-state.html": {
+    "mtime": 1780111381.1041842,
+    "seen": 1793933675.4991684,
+    "ast_hash": "0facb64e2a5f78c808d0b3b5324488c7",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/shared/template-shared-footer.html": {
+    "mtime": 1780112542.586252,
+    "seen": 1793933675.4991703,
+    "ast_hash": "e6d6cbb84b626beaeec88b3afea89368",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/shared/template-shared-modal-shell.html": {
+    "mtime": 1780111381.1041842,
+    "seen": 1793933675.4991717,
+    "ast_hash": "639057575ffbe26ba934b3394114bf02",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/shared/template-shared-public-banner.html": {
+    "mtime": 1780112542.586252,
+    "seen": 1793933675.4991736,
+    "ast_hash": "b1fcce13113193243882814385ac9240",
+    "semantic_hash": ""
+  },
+  "shared-ui/pages/templates/shared/template-shared-toast-shell.html": {
+    "mtime": 1780111381.1041842,
+    "seen": 1793933675.4991753,
+    "ast_hash": "5e28098ae511aa197cc26893a3e21c60",
+    "semantic_hash": ""
+  },
+  "shared-ui/tests/fixtures/insecure-template.base.html": {
+    "mtime": 1780112701.5502613,
+    "seen": 1793933675.4991772,
+    "ast_hash": "3ed56b07136fbef2339d12db48f317a0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/.agents/skills/dimensional-drawing-motion/SKILL.md": {
+    "mtime": 1793139693.639076,
+    "seen": 1793933675.4991794,
+    "ast_hash": "46ed686f50f3b6a212c671e7fc8d404c",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/.agents/skills/dimensional-drawing-motion/adapters/claude-motion.md": {
+    "mtime": 1793139693.639076,
+    "seen": 1793933675.499181,
+    "ast_hash": "2ca3ebe0bc506a4455abfc7b20af3067",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/.agents/skills/dimensional-drawing-motion/adapters/headless/README.md": {
+    "mtime": 1793139693.639076,
+    "seen": 1793933675.499184,
+    "ast_hash": "538b285a07ff729348e8d2bfa396f01a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/.agents/skills/dimensional-drawing-motion/adapters/headless/player.html": {
+    "mtime": 1793139693.639076,
+    "seen": 1793933675.4991856,
+    "ast_hash": "d630e14dcfa43a18f3f9a344f7fce1a8",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/.agents/skills/dimensional-drawing/SKILL.md": {
+    "mtime": 1793139693.6400762,
+    "seen": 1793933675.4991877,
+    "ast_hash": "98989b08a9097615d9a95d760e722e28",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/.agents/skills/dimensional-drawing/examples/card-sheet.html": {
+    "mtime": 1793139693.6400762,
+    "seen": 1793933675.4991896,
+    "ast_hash": "3241976fdbc41f9d567b9a3d24725f9b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/.agents/skills/dimensional-drawing/examples/dialog-sheet.html": {
+    "mtime": 1793139693.6400762,
+    "seen": 1793933675.4991913,
+    "ast_hash": "0fa4409e7377405a07e446c4c79c81f1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/README.md": {
+    "mtime": 1793158832.8142223,
+    "seen": 1793933675.4991932,
+    "ast_hash": "3cefc522cf0f8e3debca7f661aa55b6d",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/brand/palette-preview.html": {
+    "mtime": 1793160401.912347,
+    "seen": 1793933675.499195,
+    "ast_hash": "dd0304d439e68eb0f6ef462ed5c99e89",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/brand/palette.md": {
+    "mtime": 1793160378.4620388,
+    "seen": 1793933675.4991975,
+    "ast_hash": "527ca084be58c43f02daefef1f33daca",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/font/OFL.txt": {
+    "mtime": 1793903320.2071111,
+    "seen": 1793933675.4991996,
+    "ast_hash": "991a0b32ae96c0baea0bde1d089c31c1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/font/README.txt": {
+    "mtime": 1793903319.0510852,
+    "seen": 1793933675.4992018,
+    "ast_hash": "88886777cbecf1edad4cdd3bdf911358",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/README.md": {
+    "mtime": 1793670411.204782,
+    "seen": 1793933675.499204,
+    "ast_hash": "022ee640c95837a301ba1cbdb3ab8c68",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/README.md": {
+    "mtime": 1793155463.3471045,
+    "seen": 1793933675.4992058,
+    "ast_hash": "0c579bc432290482d301c289ad9fb121",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/README.md": {
+    "mtime": 1793927523.2113726,
+    "seen": 1793933675.4992077,
+    "ast_hash": "190c4d3a03fe91c9c891761565c7cd65",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/design-locked.md": {
+    "mtime": 1793927513.8731694,
+    "seen": 1793933675.4992094,
+    "ast_hash": "b44d59645b0c7b9bbefa9226b6d5f632",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/google-business-services-list.md": {
+    "mtime": 1793139694.052104,
+    "seen": 1793933675.4992113,
+    "ast_hash": "363b5a688e09748406f198a6d525ec72",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/phase-a-00-site-info.md": {
+    "mtime": 1793218180.491895,
+    "seen": 1793933675.4992127,
+    "ast_hash": "c05a479b7549ed724a3fae132c65a487",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/phase-a-01-intake.md": {
+    "mtime": 1793218180.4898949,
+    "seen": 1793933675.4992144,
+    "ast_hash": "3affa3bf137619aaf9b35692997c9017",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/phase-a-02-audit.md": {
+    "mtime": 1793158736.407047,
+    "seen": 1793933675.4992163,
+    "ast_hash": "0cf25f8aeb2f0131d99d53616dacd03d",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/phase-a-03-proposal-plan.md": {
+    "mtime": 1793218180.482895,
+    "seen": 1793933675.499218,
+    "ast_hash": "2950bd547270c873060317179f68bccc",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/phase-a-04-approval-deck-draft.md": {
+    "mtime": 1793218223.3313327,
+    "seen": 1793933675.4992194,
+    "ast_hash": "bf82ca9bf516e86cef24a6fb32cf31f4",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/phase-b-00-build-backlog.md": {
+    "mtime": 1793218180.495895,
+    "seen": 1793933675.4992213,
+    "ast_hash": "964fd51ccc0b6a966d98896a37d695b3",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/phase-b-guided-build-prompt.md": {
+    "mtime": 1793321074.0179834,
+    "seen": 1793933675.499223,
+    "ast_hash": "bd8770191272d0747ffc970250da18af",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/phase-b-wix-agent-prompts.md": {
+    "mtime": 1793218180.4908948,
+    "seen": 1793933675.4992247,
+    "ast_hash": "ba03bf5bda39e7c7c5f1b21a40316584",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/phase-c-00-handoff-README.md": {
+    "mtime": 1793927464.847103,
+    "seen": 1793933675.4992263,
+    "ast_hash": "697cf86876f2989302eee0ff7d82560c",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/CUSTOMER-EDIT-GUIDE.md": {
+    "mtime": 1793928230.4729152,
+    "seen": 1793933675.499228,
+    "ast_hash": "374ada7ec67bfe77f19c44cb5b484f48",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/README.md": {
+    "mtime": 1793933431.917693,
+    "seen": 1793933675.4992292,
+    "ast_hash": "737d3ff78fc32faf3ce9d326ad1593e3",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/source/about-tips.html": {
+    "mtime": 1793927464.7641013,
+    "seen": 1793933675.4992313,
+    "ast_hash": "cc11fcda0e098e56d31aa09c679ca32b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/source/footer.html": {
+    "mtime": 1793924625.7395616,
+    "seen": 1793933675.4992328,
+    "ast_hash": "b2644ba28dcf06b37a0959b36177d6a3",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/source/gallery-items.html": {
+    "mtime": 1793927464.7731013,
+    "seen": 1793933675.4992342,
+    "ast_hash": "404bb125c5ade4ed4deceda33d8cf2e0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/source/header.html": {
+    "mtime": 1793927464.7661014,
+    "seen": 1793933675.4992359,
+    "ast_hash": "d11f56851a029d3a50a45326d52b7532",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/source/legal-faq.html": {
+    "mtime": 1793927464.7751014,
+    "seen": 1793933675.4992373,
+    "ast_hash": "cbdf286e9591c1dd71652a0cd701a640",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/source/services-lists.html": {
+    "mtime": 1793927464.758101,
+    "seen": 1793933675.499239,
+    "ast_hash": "87b0428b31449172d715f77b49b2ffca",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/wix/about-a.html": {
+    "mtime": 1793932671.0447247,
+    "seen": 1793933675.4992406,
+    "ast_hash": "a403f3004a57dbaf983269e439026fc0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/wix/about-b.html": {
+    "mtime": 1793932671.0467248,
+    "seen": 1793933675.4992423,
+    "ast_hash": "513d8dd7f4398640c021450e3bde26ec",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/wix/contact-a.html": {
+    "mtime": 1793932671.1557271,
+    "seen": 1793933675.4992437,
+    "ast_hash": "83df30552e502badf5f4989d699a6819",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/wix/contact-b.html": {
+    "mtime": 1793932671.1557271,
+    "seen": 1793933675.4992456,
+    "ast_hash": "b6df21625afcb92688d556ffd67575e0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/wix/gallery-a.html": {
+    "mtime": 1793932671.2037282,
+    "seen": 1793933675.4992473,
+    "ast_hash": "f4434807c5e72fbc0b47d298d3a0cb53",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/wix/gallery-b.html": {
+    "mtime": 1793932671.2037282,
+    "seen": 1793933675.4992497,
+    "ast_hash": "48269f2a835c695e5d20e7cca038a3e8",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/wix/header.html": {
+    "mtime": 1793932671.103726,
+    "seen": 1793933675.4992511,
+    "ast_hash": "f1eead47976e29b2356da3a62d19cfd5",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/wix/home-a.html": {
+    "mtime": 1793934252.631396,
+    "seen": 1793934258.0619802,
+    "ast_hash": "4f4c034b4090a81ea7f68be5eb9c98cf",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/wix/home-b.html": {
+    "mtime": 1793934252.637396,
+    "seen": 1793934258.0619826,
+    "ast_hash": "cfeda69eb10fb79ebb45e731c0df0dcf",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/wix/legal-a.html": {
+    "mtime": 1793932670.9777231,
+    "seen": 1793933675.499256,
+    "ast_hash": "3b5e2a667c722c2f6a04ff2608867fb6",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/wix/legal-b.html": {
+    "mtime": 1793932670.9797232,
+    "seen": 1793933675.4992573,
+    "ast_hash": "6518fe27d53ea6f96f50263f22bfb579",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/wix/services-a.html": {
+    "mtime": 1793932690.6561525,
+    "seen": 1793933675.499259,
+    "ast_hash": "b899c22b392c2752be0b19144a75fa36",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/custom-code/wix/services-b.html": {
+    "mtime": 1793932690.6561525,
+    "seen": 1793933675.4992607,
+    "ast_hash": "d0be28b5c25811ca00e4b265e41198cf",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/embed/home-hero.html": {
+    "mtime": 1793932700.717372,
+    "seen": 1793933675.4992628,
+    "ast_hash": "07d2c59fdfe29fc40636343bb937fedc",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/embed/home-marquee.html": {
+    "mtime": 1793927464.758101,
+    "seen": 1793933675.4992645,
+    "ast_hash": "76b26d8d15b197aca066e574fab91511",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/embed/not-found.html": {
+    "mtime": 1793927464.757101,
+    "seen": 1793933675.4992661,
+    "ast_hash": "23bd322f9c8ffe880b2c59c2996feaa9",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/index.html": {
+    "mtime": 1793933895.8816633,
+    "seen": 1793934258.062,
+    "ast_hash": "42c0b4deced2bb8c9b238f14ebfa44aa",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/preview/about.html": {
+    "mtime": 1793932671.0527248,
+    "seen": 1793933675.4992695,
+    "ast_hash": "83a449d12d3158ad52735b9574e79cc4",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/preview/contact.html": {
+    "mtime": 1793932671.1557271,
+    "seen": 1793933675.499271,
+    "ast_hash": "3617ec210146e60b3caff4fef1bf4b99",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/preview/gallery.html": {
+    "mtime": 1793932671.2047281,
+    "seen": 1793933675.4992723,
+    "ast_hash": "ae237a8312cab2d09000a4f40753edd4",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/preview/home.html": {
+    "mtime": 1793934252.6433964,
+    "seen": 1793934258.062009,
+    "ast_hash": "de9dca1ed9875d62d0ebaa2d8a45577e",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/preview/legal.html": {
+    "mtime": 1793932670.9817233,
+    "seen": 1793933675.4992757,
+    "ast_hash": "d5979461c40416303aace90f9d9cedbe",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/preview/services.html": {
+    "mtime": 1793932690.6581526,
+    "seen": 1793933675.4992776,
+    "ast_hash": "4be0ef2ad3be7a761ebf56d0dc64238e",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/exports/blog-archive/honest-hvac-repair-your-trusted-local-experts.md": {
+    "mtime": 1793139694.0561042,
+    "seen": 1793933675.4992793,
+    "ast_hash": "9e2e1edcf70281d508ddaa919ef246b2",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/exports/blog-archive/tips-for-faq.md": {
+    "mtime": 1793139694.0561042,
+    "seen": 1793933675.499281,
+    "ast_hash": "be165688501b67fb919b2e54eb19502f",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/exports/blog-archive/top-tips-for-efficient-hvac-system-replacement.md": {
+    "mtime": 1793139694.0721052,
+    "seen": 1793933675.4992824,
+    "ast_hash": "b91c40ad3edc4a0d0f097db8a378cb29",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/README.md": {
+    "mtime": 1793158646.6596203,
+    "seen": 1793933675.4992843,
+    "ast_hash": "3c2875c69e064fb121a14c31b82d61e0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/dimensional/index.html": {
+    "mtime": 1793139694.081106,
+    "seen": 1793933675.4992864,
+    "ast_hash": "fbdb1c507a17081663f396f44cb4e84c",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/dimensional/ui-page-area-001-sheet.html": {
+    "mtime": 1793139694.081106,
+    "seen": 1793933675.4992883,
+    "ast_hash": "99b1f2c721d004cf999e929e7cf0b169",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/dimensional/ui-page-book-001-sheet.html": {
+    "mtime": 1793139694.081106,
+    "seen": 1793933675.4992898,
+    "ast_hash": "0d20e50e1ee58b759d006931c73670e4",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/dimensional/ui-page-faq-001-sheet.html": {
+    "mtime": 1793139694.081106,
+    "seen": 1793933675.4992917,
+    "ast_hash": "bbac93f8f18a281e6df361b7d972f148",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/dimensional/ui-page-form-001-sheet.html": {
+    "mtime": 1793139694.081106,
+    "seen": 1793933675.499293,
+    "ast_hash": "85c1c15d5a08862d4634f63b6fc3be82",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/dimensional/ui-page-home-001-sheet.html": {
+    "mtime": 1793139694.081106,
+    "seen": 1793933675.4992945,
+    "ast_hash": "f0b72f8ad6f0762d5f7a085e84c928f3",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/dimensional/ui-page-services-001-sheet.html": {
+    "mtime": 1793139694.081106,
+    "seen": 1793933675.499296,
+    "ast_hash": "c3a667c8bc76cfca0d7eff5854ebe7b1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/dimensional/ui-shell-001-sheet.html": {
+    "mtime": 1793139694.081106,
+    "seen": 1793933675.4992979,
+    "ast_hash": "13f4f9330de1392795ff281dbd83a562",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/about-mockup.html": {
+    "mtime": 1793913514.2005126,
+    "seen": 1793933675.4992993,
+    "ast_hash": "5370c044e764840200c210cddb7f4359",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/book-mockup.html": {
+    "mtime": 1793163025.6835208,
+    "seen": 1793933675.4993012,
+    "ast_hash": "6b41c310579209410fc3526edc05000a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/contact-mockup.html": {
+    "mtime": 1793163103.943609,
+    "seen": 1793933675.4993024,
+    "ast_hash": "29758d3dd0818a74da69c06ada1a6717",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/home-mockup.html": {
+    "mtime": 1793913510.7384036,
+    "seen": 1793933675.4993043,
+    "ast_hash": "2a3bb56ee80fae4b8f6382ae19e5a0f3",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/index.html": {
+    "mtime": 1793152371.4981203,
+    "seen": 1793933675.4993057,
+    "ast_hash": "ea3ab84aa5581d74fd876a38ac399440",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/legal-privacy-mockup.html": {
+    "mtime": 1793163154.6232305,
+    "seen": 1793933675.4993072,
+    "ast_hash": "6bf309f4e732c4592a7e199bfcd7a5c8",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/README.md": {
+    "mtime": 1793152371.1201077,
+    "seen": 1793933675.4993088,
+    "ast_hash": "76abf7c694397869d94dcc3722633953",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/not-found-mockup.html": {
+    "mtime": 1793162634.4397333,
+    "seen": 1793933675.4993103,
+    "ast_hash": "5aabda75682302c807c7a5c776412108",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/services-mockup.html": {
+    "mtime": 1793163011.994313,
+    "seen": 1793933675.499312,
+    "ast_hash": "c4ea89ec2618f256f37369d7ca8f1a70",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/README.md": {
+    "mtime": 1793158831.7492006,
+    "seen": 1793933675.4993138,
+    "ast_hash": "8d1fa46309c8642956c506e68bd14f10",
+    "semantic_hash": ""
+  },
+  "site-sants-fitness/README.md": {
+    "mtime": 1780114392.1853602,
+    "seen": 1793933675.4993155,
+    "ast_hash": "46dd1bbaaba67757412cd0c675cde1b3",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/favicon/apple-touch-icon.png": {
+    "mtime": 1780111381.0861843,
+    "seen": 1793933675.4993174,
+    "ast_hash": "4431ba29d221ed9cd765b178f90a96f8",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/favicon/favicon-96x96.png": {
+    "mtime": 1780111381.0861843,
+    "seen": 1793933675.4993188,
+    "ast_hash": "d536632ae7077faaa844c31cb0175310",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/favicon/favicon.svg": {
+    "mtime": 1780111381.0861843,
+    "seen": 1793933675.4993203,
+    "ast_hash": "b8e97861a77b9b1664e626438b616232",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/favicon/web-app-manifest-192x192.png": {
+    "mtime": 1780111381.088184,
+    "seen": 1793933675.4993222,
+    "ast_hash": "6a8e53ccb073c9706f041f4c94508880",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/favicon/web-app-manifest-512x512.png": {
+    "mtime": 1780111381.088184,
+    "seen": 1793933675.4993236,
+    "ast_hash": "1a73f9858eb6bcef3af61b40ccadbe86",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/backgrounds/all-device.jpg": {
+    "mtime": 1780111381.088184,
+    "seen": 1793933675.4993255,
+    "ast_hash": "0a150b3bc4e2ea55e875a09faf1a3a56",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/backgrounds/all-devices.jpg": {
+    "mtime": 1780111381.088184,
+    "seen": 1793933675.499327,
+    "ast_hash": "1808df527459315be3579f9405aa2dc5",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/backgrounds/bookshelf-2.jpg": {
+    "mtime": 1780111381.0891843,
+    "seen": 1793933675.4993286,
+    "ast_hash": "6402206ac8877bb1645bceb8ca79975a",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/backgrounds/bookshelf.jpg": {
+    "mtime": 1780111381.0891843,
+    "seen": 1793933675.4993303,
+    "ast_hash": "bb0271c3b3562f2860509012371496f2",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/backgrounds/computer.jpg": {
+    "mtime": 1780111381.0901842,
+    "seen": 1793933675.499332,
+    "ast_hash": "6a970418ae43d4bd6635da53131db0dd",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/backgrounds/crystals.jpg": {
+    "mtime": 1780111381.0901842,
+    "seen": 1793933675.4993336,
+    "ast_hash": "a53aa5cafeba54945d0a688ace096788",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/backgrounds/gaming-pc-closeup.webp": {
+    "mtime": 1780111381.0901842,
+    "seen": 1793933675.4993348,
+    "ast_hash": "869548c6d897ba531139d78e984a13ce",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/backgrounds/generic-image.png": {
+    "mtime": 1780111381.092184,
+    "seen": 1793933675.4993367,
+    "ast_hash": "11b77560391f72ef9cf7081518375023",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/backgrounds/hex-pc-2.jpg": {
+    "mtime": 1780111381.0931842,
+    "seen": 1793933675.4993382,
+    "ast_hash": "66b6129cf59364afb7acf9ef6d4351b9",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/backgrounds/hex-pc.jpg": {
+    "mtime": 1780111381.0931842,
+    "seen": 1793933675.49934,
+    "ast_hash": "f27a52956273fbb40039d2f42248a7a1",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/backgrounds/pc.jpg": {
+    "mtime": 1780111381.0931842,
+    "seen": 1793933675.4993417,
+    "ast_hash": "9e8c766170dbf18c841799a6fb382a30",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/badges/app-store.svg": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993434,
+    "ast_hash": "3ba16c6a2b36e4c1bb4a91a7f9d0f8eb",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/badges/google-play.svg": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993448,
+    "ast_hash": "50ee22e4db5e12d29322447d0f013b4b",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/branding/logo-long-transparent.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993465,
+    "ast_hash": "4878e0435449176e4f144c1e89bff113",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/branding/logo-mascot-tiny.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.499348,
+    "ast_hash": "61249daa04e23b9c077ec217b44b8c96",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/branding/logo-mascot-vector.svg": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993496,
+    "ast_hash": "647b21ae6fa9c321d92969c0d5da3dfd",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/branding/logo-mascot.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993513,
+    "ast_hash": "1d87d59b0136d66de5f762522c151f3d",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/branding/logo-short.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.499353,
+    "ast_hash": "3146bb86157ab350ca039d3c4b08974f",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/favicon/apple-touch-icon.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993544,
+    "ast_hash": "4431ba29d221ed9cd765b178f90a96f8",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/favicon/favicon-96x96.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993567,
+    "ast_hash": "d536632ae7077faaa844c31cb0175310",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/favicon/favicon.svg": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993582,
+    "ast_hash": "b8e97861a77b9b1664e626438b616232",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/favicon/web-app-manifest-192x192.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993598,
+    "ast_hash": "6a8e53ccb073c9706f041f4c94508880",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/favicon/web-app-manifest-512x512.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993613,
+    "ast_hash": "1a73f9858eb6bcef3af61b40ccadbe86",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/auth/apple-logo-black.svg": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993627,
+    "ast_hash": "9af70d23e87b930dedf545f6e31f7b6e",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/auth/fingerprint-scan.svg": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993644,
+    "ast_hash": "f079b286b774b316bdc8dc983d24d0e6",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/auth/google.svg": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993658,
+    "ast_hash": "7a0dd84a4729f2b00ee8d697633c8ef8",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/auth/windows-logo.svg": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993675,
+    "ast_hash": "d938a27931d858a4fe1e89a6b29e0c1a",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/footer/cookie.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.499369,
+    "ast_hash": "1312953402b7a48931e495eecedf2b57",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/footer/facebook.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993706,
+    "ast_hash": "1448b4a3c913035f10e9a0179d604175",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/footer/instagram.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.499372,
+    "ast_hash": "6c151a565a80fce7c7fdaf59fde8149f",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/footer/share.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993737,
+    "ast_hash": "d2d82edd6c1acb136cf785b8f384217b",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/footer/x.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.499375,
+    "ast_hash": "b45ea82c52d13b00e04924b3d8f0703f",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/ui/alert.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993765,
+    "ast_hash": "e175a44ecf0eb7fd0b8c897faa1c2d84",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/ui/bee-icon.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993782,
+    "ast_hash": "62b3733a3141679df104c27bb8e14223",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/ui/calendar.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993799,
+    "ast_hash": "cd2be53548e07cbc99f8e5d01e1d5a40",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/ui/day-mode-icon.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993815,
+    "ast_hash": "8fd9fafb37b9b55e42b37198e6f66a6e",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/ui/eye-closed-glyph.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993832,
+    "ast_hash": "a2636b823a7460fe45e8f7dc501dcb22",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/ui/eye-open-glyph.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993846,
+    "ast_hash": "66911fdfc654b7f94bc9cabc2f892e4d",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/ui/gear-icon.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.499386,
+    "ast_hash": "fef6399914fd063b71067e8b33ca1baf",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/ui/menu-comb.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993877,
+    "ast_hash": "2b678508f5fa593a9ebf4affa00f07ca",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/ui/menu-icon.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993892,
+    "ast_hash": "747827769e4c3df8fdf5335374535e8f",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/ui/night-mode-icon.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.499391,
+    "ast_hash": "010b3074145dba729029e2312743ff9e",
+    "semantic_hash": ""
+  },
+  "shared-ui/assets/img/icons/ui/refresh.png": {
+    "mtime": 1780111381.095184,
+    "seen": 1793933675.4993923,
+    "ast_hash": "32e5d5dd8e59f40bb76e5ba2f4a89f71",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/_preview/yelp-preview.png": {
+    "mtime": 1793144840.2205768,
+    "seen": 1793933675.499394,
+    "ast_hash": "544f00b697349b4f370222d71d8faea3",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/angi.png": {
+    "mtime": 1793575430.1805954,
+    "seen": 1793933675.4993958,
+    "ast_hash": "69a8d010a9efdc40affee927eb5e1ef2",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/angi.svg": {
+    "mtime": 1793144373.9363585,
+    "seen": 1793933675.4993975,
+    "ast_hash": "128027e828eaee338f56c91c8d3fc501",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/contact-fab.png": {
+    "mtime": 1793575430.4035966,
+    "seen": 1793933675.4993992,
+    "ast_hash": "6a0d3a9091c3d1017280d749b6b0213f",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/contact-fab.svg": {
+    "mtime": 1793152371.1711094,
+    "seen": 1793933675.4994006,
+    "ast_hash": "1ba6eff019c00244f1cc44cf57a02167",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/google.png": {
+    "mtime": 1793575430.2515957,
+    "seen": 1793933675.4994023,
+    "ast_hash": "8b78c9cd2bab5ff33cf8a4a29287b359",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/google.svg": {
+    "mtime": 1793144373.7593591,
+    "seen": 1793933675.4994037,
+    "ast_hash": "ad38f4bbd11a886e4ef28fdb9cad1f23",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/mail-5888.png": {
+    "mtime": 1793648610.7409744,
+    "seen": 1793933675.4994054,
+    "ast_hash": "113ce84facdd1726c868eb92302902aa",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/mail-5888.svg": {
+    "mtime": 1793648938.1390502,
+    "seen": 1793933675.4994068,
+    "ast_hash": "739da2fe9458850b5d992c4ab6322d94",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/phone-5961.svg": {
+    "mtime": 1793140427.0353544,
+    "seen": 1793933675.4994085,
+    "ast_hash": "4519aa8c3bfd9a5c7dddad15239d3c47",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/phone.png": {
+    "mtime": 1793575430.315596,
+    "seen": 1793933675.4994102,
+    "ast_hash": "5708dce7616c7255dc4f07c7340d4445",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/telephone.svg": {
+    "mtime": 1793139693.641076,
+    "seen": 1793933675.4994118,
+    "ast_hash": "fa11811a2c41cce632ba6ae5c4c4c0ab",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/yelp.png": {
+    "mtime": 1793575430.1075952,
+    "seen": 1793933675.4994133,
+    "ast_hash": "cebc00043b6800268151d3b286f38fed",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/icons/yelp.svg": {
+    "mtime": 1793144828.812423,
+    "seen": 1793933675.499415,
+    "ast_hash": "c27ac16fca1dc6117e59915941aff385",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/favicon-180.png": {
+    "mtime": 1793139693.641076,
+    "seen": 1793933675.4994166,
+    "ast_hash": "3218e8527ae290749cd9402184b2bcaa",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/favicon-32.png": {
+    "mtime": 1793139693.6430762,
+    "seen": 1793933675.4994178,
+    "ast_hash": "766ab49c09dccdb9ee945e43defde9f8",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/favicon-64.png": {
+    "mtime": 1793139693.6430762,
+    "seen": 1793933675.4994195,
+    "ast_hash": "ec1035c44323a67e7090334e37c4486d",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/favicon.png": {
+    "mtime": 1793139693.6430762,
+    "seen": 1793933675.499421,
+    "ast_hash": "766ab49c09dccdb9ee945e43defde9f8",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/favicon.svg": {
+    "mtime": 1793139693.6450765,
+    "seen": 1793933675.4994228,
+    "ast_hash": "cbde870f831b89a375a2b8e68147763d",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo-copper-mark.svg": {
+    "mtime": 1793140899.9571934,
+    "seen": 1793933675.4994242,
+    "ast_hash": "bd814f7e8597bfa72496ae552bb00fe4",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo-copper.png": {
+    "mtime": 1793661251.4435377,
+    "seen": 1793933675.499426,
+    "ast_hash": "0e31bd9e069ea6607f4374637a1c490b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo-copper.svg": {
+    "mtime": 1793661251.1655378,
+    "seen": 1793933675.4994273,
+    "ast_hash": "ed2b7952acefa341ad7328c20ca0f23a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo-hvac-beyond-copper.jpg": {
+    "mtime": 1793661251.4555378,
+    "seen": 1793933675.4994287,
+    "ast_hash": "8f5984b738ceeec0265d324941dcb216",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo-hvac-beyond-copper.png": {
+    "mtime": 1793661251.4265378,
+    "seen": 1793933675.4994304,
+    "ast_hash": "0e31bd9e069ea6607f4374637a1c490b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo-hvac-beyond.png": {
+    "mtime": 1793661226.2315342,
+    "seen": 1793933675.499432,
+    "ast_hash": "edf840b5d8ae8d8a6f3fb3bba148882b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo-hvac-beyond.svg": {
+    "mtime": 1793661251.1665378,
+    "seen": 1793933675.4994338,
+    "ast_hash": "0adf12420c61d73b451217b42d8a085b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo-mark.svg": {
+    "mtime": 1793139693.6460764,
+    "seen": 1793933675.4994352,
+    "ast_hash": "aeb49008238cfc888557ba40de404aa2",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo-on-white.png": {
+    "mtime": 1793139693.6470766,
+    "seen": 1793933675.499441,
+    "ast_hash": "cecbf86c2d1690553e98f64f8ad0d7df",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo-on-white.svg": {
+    "mtime": 1793139693.6470766,
+    "seen": 1793933675.499443,
+    "ast_hash": "d59264a314ebb48c824c41a7a91aa02a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo-wordmark-copper.svg": {
+    "mtime": 1793670407.259567,
+    "seen": 1793933675.4994445,
+    "ast_hash": "b3a4243b64e65f540d04a8ab77f8e3c0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo-wordmark.png": {
+    "mtime": 1793670488.4886746,
+    "seen": 1793933675.499446,
+    "ast_hash": "09e50e07b90a62d7199965279547b96c",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo-wordmark.svg": {
+    "mtime": 1793670407.259567,
+    "seen": 1793933675.4994478,
+    "ast_hash": "4155af79a9fdc970417848d8987bc24c",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo.png": {
+    "mtime": 1793139693.6470766,
+    "seen": 1793933675.4994493,
+    "ast_hash": "5cfd811dae624696ae9da9f1fe4b479a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-logo.svg": {
+    "mtime": 1793139693.6470766,
+    "seen": 1793933675.499451,
+    "ast_hash": "aeb49008238cfc888557ba40de404aa2",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-tools-copper.svg": {
+    "mtime": 1793139693.6470766,
+    "seen": 1793933675.4994524,
+    "ast_hash": "cbde870f831b89a375a2b8e68147763d",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/keeping-busy-tools.svg": {
+    "mtime": 1793139693.6470766,
+    "seen": 1793933675.499454,
+    "ast_hash": "cbde870f831b89a375a2b8e68147763d",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/originals/KEEPing busy.png": {
+    "mtime": 1793139693.6470766,
+    "seen": 1793933675.4994555,
+    "ast_hash": "6bbdee847ac33879dad74e3ba5bff3e1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/originals/KEEPing busy.svg": {
+    "mtime": 1793139693.6480765,
+    "seen": 1793933675.4994574,
+    "ast_hash": "ffd2584a1450cebd4498d4b608212c39",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/originals/KEEPing-busy-logo-source.png": {
+    "mtime": 1793158484.1109834,
+    "seen": 1793933675.499459,
+    "ast_hash": "6bbdee847ac33879dad74e3ba5bff3e1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/originals/TRANSPARENTKEEPing busy.png": {
+    "mtime": 1793139693.6480765,
+    "seen": 1793933675.4994607,
+    "ast_hash": "6be3062c8f34f19903dae4cf6dd5a27f",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/logo/originals/TRANSPARENTKEEPing busy.svg": {
+    "mtime": 1793139693.6480765,
+    "seen": 1793933675.4994621,
+    "ast_hash": "68042d96b42a089a0ddaf7c2a679d0b4",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/_preview/1000008436_thumb.jpg": {
+    "mtime": 1793139693.6480765,
+    "seen": 1793933675.4994638,
+    "ast_hash": "5b25e015bb0f7091454d880f89d49528",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/_preview/1000008515_thumb.jpg": {
+    "mtime": 1793139693.6480765,
+    "seen": 1793933675.4994652,
+    "ast_hash": "9d8033f4b3c231d84d289bd6f45ff25b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/_preview/1000008531_thumb.jpg": {
+    "mtime": 1793139693.6480765,
+    "seen": 1793933675.4994667,
+    "ast_hash": "60b5ef24f166472d3957d889ff2d9fdc",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/_preview/1000008534_thumb.jpg": {
+    "mtime": 1793139693.6480765,
+    "seen": 1793933675.4994686,
+    "ast_hash": "6d5602214c1487d0e6a6b75350f86688",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/_preview/1000008535_thumb.jpg": {
+    "mtime": 1793139693.6490767,
+    "seen": 1793933675.4994698,
+    "ast_hash": "f503e1f8b16bd6d3d96e26c4f980dc86",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/_preview/1000008674_thumb.jpg": {
+    "mtime": 1793139693.6490767,
+    "seen": 1793933675.4994714,
+    "ast_hash": "000211934c89a498a86beb4e29098776",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/_preview/1000008718_thumb.jpg": {
+    "mtime": 1793139693.6490767,
+    "seen": 1793933675.4994729,
+    "ast_hash": "35855b624fe18f88b4afc0d67e92c672",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/_preview/1000009217_thumb.jpg": {
+    "mtime": 1793139693.6490767,
+    "seen": 1793933675.4994745,
+    "ast_hash": "4a4a2cf9cb3f2cf42c5f0ba3e272d670",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/_preview/1000009363_thumb.jpg": {
+    "mtime": 1793139693.6490767,
+    "seen": 1793933675.499476,
+    "ast_hash": "3a932d87c7d07d01ee38cb537f4e872b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/_preview/1000009369_thumb.jpg": {
+    "mtime": 1793139693.6490767,
+    "seen": 1793933675.4994771,
+    "ast_hash": "b61cc07651e6f9aa436144f8e10e6364",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/_preview/1000009393_thumb.jpg": {
+    "mtime": 1793139693.6490767,
+    "seen": 1793933675.4994786,
+    "ast_hash": "0139df6661dcb78532c94032d8781745",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/_preview/1000009403_thumb.jpg": {
+    "mtime": 1793139693.6490767,
+    "seen": 1793933675.49948,
+    "ast_hash": "f1940958ace3de5a04416870c0af8d41",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/_preview/contact-sheet.jpg": {
+    "mtime": 1793139693.653077,
+    "seen": 1793933675.4994817,
+    "ast_hash": "d5e40e94a4a6985ad73436b4de05ef2d",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/blog-honest-repair.png": {
+    "mtime": 1793139693.6590774,
+    "seen": 1793933675.4994833,
+    "ast_hash": "6f371e093d30b172cc404c1aa9841113",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/blog-system-replacement.png": {
+    "mtime": 1793139693.6650777,
+    "seen": 1793933675.499485,
+    "ast_hash": "907d71f6601329ab80159cb80f9fd1ff",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/brand-mascot-dog.jpg": {
+    "mtime": 1793139693.6750784,
+    "seen": 1793933675.4994864,
+    "ast_hash": "5e98e08ddc0e38254a78011187f5b74a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/hero-hvac.jpg": {
+    "mtime": 1793139693.6780787,
+    "seen": 1793933675.499488,
+    "ast_hash": "b09abaeca73d0f40cf1b17590516ee06",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/job-about-portrait.jpg": {
+    "mtime": 1793155458.6450772,
+    "seen": 1793933675.4994895,
+    "ast_hash": "b16acdb556ebe0a030afd6bb00ff0fae",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/job-ac-outdoor.jpg": {
+    "mtime": 1793139693.6860793,
+    "seen": 1793933675.499491,
+    "ast_hash": "0c90a222ff65b0e571284938c0db8f6b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/job-capacitor.jpg": {
+    "mtime": 1793139693.6880794,
+    "seen": 1793933675.499493,
+    "ast_hash": "62adad90f32f979716eaf1f0e2937424",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/job-copper-pipe.jpg": {
+    "mtime": 1793139693.6900795,
+    "seen": 1793933675.4994943,
+    "ast_hash": "13ba57f30f6306b29b2730da10544382",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/job-fireplace-burner.jpg": {
+    "mtime": 1793139693.7020802,
+    "seen": 1793933675.499496,
+    "ast_hash": "f98badba4ffe2b77becc0afb27417d93",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/job-fireplace-lit.jpg": {
+    "mtime": 1793139693.7040803,
+    "seen": 1793933675.4994972,
+    "ast_hash": "177fa3ba65d814c3eae4913f6d1e1dc1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/job-fireplace-logs.jpg": {
+    "mtime": 1793139693.7110808,
+    "seen": 1793933675.4994986,
+    "ast_hash": "cc47457b946444fe47ea06d27e4a4c6e",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/job-fireplace-mantle.jpg": {
+    "mtime": 1793139693.7190814,
+    "seen": 1793933675.4995,
+    "ast_hash": "905a54090c7dc466066a2645d62a4367",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/job-fireplace-service.jpg": {
+    "mtime": 1793139693.7240818,
+    "seen": 1793933675.4995015,
+    "ast_hash": "b16acdb556ebe0a030afd6bb00ff0fae",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/job-furnace-wh.jpg": {
+    "mtime": 1793139693.7330823,
+    "seen": 1793933675.4995031,
+    "ast_hash": "c8ca6885cd0bf19f8d57f301c0b4942c",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/job-hand-part.jpg": {
+    "mtime": 1793139693.7330823,
+    "seen": 1793933675.4995048,
+    "ast_hash": "dc8dd9300d4ec79af7ae029c54e0cb70",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/job-truck-tools.jpg": {
+    "mtime": 1793139693.7330823,
+    "seen": 1793933675.4995065,
+    "ast_hash": "bfe96a5c155897dc4191119b12ea1aff",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/logo.png": {
+    "mtime": 1793139693.7330823,
+    "seen": 1793933675.499508,
+    "ast_hash": "6be3062c8f34f19903dae4cf6dd5a27f",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/project-hvac.jpg": {
+    "mtime": 1793139693.7330823,
+    "seen": 1793933675.4995093,
+    "ast_hash": "b1b7f3e28bd3fb5a3e2326151e009c3c",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/project-repair.jpg": {
+    "mtime": 1793139693.7460833,
+    "seen": 1793933675.4995108,
+    "ast_hash": "8a07900f5cfc90c1b46bd90c6d08d0a0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/real_photos/1000008436.JPG": {
+    "mtime": 1793139693.7510836,
+    "seen": 1793933675.499513,
+    "ast_hash": "5e98e08ddc0e38254a78011187f5b74a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/real_photos/1000008515.JPG": {
+    "mtime": 1793139693.7540839,
+    "seen": 1793933675.499514,
+    "ast_hash": "905a54090c7dc466066a2645d62a4367",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/real_photos/1000008531.JPG": {
+    "mtime": 1793139693.7540839,
+    "seen": 1793933675.4995155,
+    "ast_hash": "cc47457b946444fe47ea06d27e4a4c6e",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/real_photos/1000008534.JPG": {
+    "mtime": 1793139693.7680848,
+    "seen": 1793933675.4995172,
+    "ast_hash": "b16acdb556ebe0a030afd6bb00ff0fae",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/real_photos/1000008535.JPG": {
+    "mtime": 1793139693.7680848,
+    "seen": 1793933675.4995186,
+    "ast_hash": "177fa3ba65d814c3eae4913f6d1e1dc1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/real_photos/1000008674.JPG": {
+    "mtime": 1793139693.7680848,
+    "seen": 1793933675.4995205,
+    "ast_hash": "dc8dd9300d4ec79af7ae029c54e0cb70",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/real_photos/1000008718.JPG": {
+    "mtime": 1793139693.7770853,
+    "seen": 1793933675.499522,
+    "ast_hash": "f98badba4ffe2b77becc0afb27417d93",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/real_photos/1000009217.JPG": {
+    "mtime": 1793139693.7790854,
+    "seen": 1793933675.4995239,
+    "ast_hash": "62adad90f32f979716eaf1f0e2937424",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/real_photos/1000009363.JPG": {
+    "mtime": 1793139693.7830858,
+    "seen": 1793933675.499525,
+    "ast_hash": "bfe96a5c155897dc4191119b12ea1aff",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/real_photos/1000009369.JPG": {
+    "mtime": 1793139693.7830858,
+    "seen": 1793933675.4995267,
+    "ast_hash": "0c90a222ff65b0e571284938c0db8f6b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/real_photos/1000009393.JPG": {
+    "mtime": 1793139693.7910862,
+    "seen": 1793933675.4995282,
+    "ast_hash": "13ba57f30f6306b29b2730da10544382",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/real_photos/1000009403.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995298,
+    "ast_hash": "c8ca6885cd0bf19f8d57f301c0b4942c",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/real_photos/IMG_2144.jpg": {
+    "mtime": 1793689828.881063,
+    "seen": 1793933675.4995313,
+    "ast_hash": "6cd2bd9a5e9feacb888a3ddc6b34dcac",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/about.jpg": {
+    "mtime": 1793155458.618077,
+    "seen": 1793933675.4995327,
+    "ast_hash": "5fbc309775dfa9bea0e4d9a95f24fe07",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/area-side.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995344,
+    "ast_hash": "7cef59772126c2e1085f3fb14269cae5",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/book-side.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995356,
+    "ast_hash": "c12f136c846ee13c59bd203587b6a053",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/contact-side.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995372,
+    "ast_hash": "f23c9b087d938b359fcb0bf292fdbb89",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/estimate-side.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995387,
+    "ast_hash": "0e1c0eb76d47c8304d64fdf5cb888402",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/faq-hero.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995406,
+    "ast_hash": "f3e4555c839e45c20b5866e007946a73",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/hero.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.499542,
+    "ast_hash": "feff2f3f576d2672e669547e32dc09a6",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/integrity.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995441,
+    "ast_hash": "15359063ba317c5be74d9ca8600bccbc",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/legal-side.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995456,
+    "ast_hash": "9dd667538e81e3c70b625a07a90627eb",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/not-found.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995472,
+    "ast_hash": "ee28b6a76238d224b18e925cf62e986a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/project-1.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995487,
+    "ast_hash": "8ff486eb519913b8d0e596860a35149e",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/project-2.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995499,
+    "ast_hash": "9dd667538e81e3c70b625a07a90627eb",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/project-3.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995518,
+    "ast_hash": "5518265b651d9f1b508da42c42f6d3bf",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/project-4.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995532,
+    "ast_hash": "687553dbd59f0d5750019273df113bb5",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/services-banner.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995546,
+    "ast_hash": "198d026b7bbaf9b6afef1c1f025931f1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/svc-appliances.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995563,
+    "ast_hash": "cc915ad22919bfa6d614397ca761ab87",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/svc-install.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.499558,
+    "ast_hash": "3f39426765cb4a605252c7577817cd32",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/svc-repair.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995596,
+    "ast_hash": "1ede71f602aceed3df8ab7a04a9a4382",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/tip-repair.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995613,
+    "ast_hash": "1ede71f602aceed3df8ab7a04a9a4382",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/web/tip-replace.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995625,
+    "ast_hash": "feff2f3f576d2672e669547e32dc09a6",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/wix-pulled/cellphone.png": {
+    "mtime": 1793930446.8031857,
+    "seen": 1793933675.4995642,
+    "ast_hash": "b66d2c9b1ba845840efd321b78082977",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/wix-pulled/computer.png": {
+    "mtime": 1793931213.573514,
+    "seen": 1793933675.4995658,
+    "ast_hash": "c4b179902bb4ee9f77afc30948288532",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/wix-pulled/laptop.png": {
+    "mtime": 1793930312.4820166,
+    "seen": 1793933675.4995673,
+    "ast_hash": "2c0637dcb91e51bbcb3e85c98d3bb2be",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/wix-pulled/wix-01.png": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.499569,
+    "ast_hash": "6bbdee847ac33879dad74e3ba5bff3e1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/wix-pulled/wix-02.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995704,
+    "ast_hash": "b09abaeca73d0f40cf1b17590516ee06",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/wix-pulled/wix-03.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.499572,
+    "ast_hash": "b1b7f3e28bd3fb5a3e2326151e009c3c",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/wix-pulled/wix-04.jpg": {
+    "mtime": 1793139693.8370893,
+    "seen": 1793933675.4995735,
+    "ast_hash": "8a07900f5cfc90c1b46bd90c6d08d0a0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/wix-pulled/wix-05.jpg": {
+    "mtime": 1793139693.9140947,
+    "seen": 1793933675.4995754,
+    "ast_hash": "695aad87665964f824847b0f6f0ded22",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/wix-pulled/wix-06.jpg": {
+    "mtime": 1793139693.9650981,
+    "seen": 1793933675.4995766,
+    "ast_hash": "e5e4955da7476dcef67e60d0c68c9984",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/wix-stock-wix-05.jpg": {
+    "mtime": 1793139694.0131013,
+    "seen": 1793933675.499578,
+    "ast_hash": "695aad87665964f824847b0f6f0ded22",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/assets/photos/wix-stock-wix-06.jpg": {
+    "mtime": 1793139694.0501037,
+    "seen": 1793933675.4995797,
+    "ast_hash": "e5e4955da7476dcef67e60d0c68c9984",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/media/brand/logo-copper.svg": {
+    "mtime": 1793661251.1655378,
+    "seen": 1793933675.499581,
+    "ast_hash": "ed2b7952acefa341ad7328c20ca0f23a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/media/icons/angi.svg": {
+    "mtime": 1793144373.9363585,
+    "seen": 1793933675.4995828,
+    "ast_hash": "128027e828eaee338f56c91c8d3fc501",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/media/icons/google.svg": {
+    "mtime": 1793144373.7593591,
+    "seen": 1793933675.4995842,
+    "ast_hash": "ad38f4bbd11a886e4ef28fdb9cad1f23",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/media/icons/yelp.svg": {
+    "mtime": 1793144828.812423,
+    "seen": 1793933675.4995859,
+    "ast_hash": "c27ac16fca1dc6117e59915941aff385",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/media/photos/area-side.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.499587,
+    "ast_hash": "7cef59772126c2e1085f3fb14269cae5",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/media/photos/cellphone.png": {
+    "mtime": 1793930446.8031857,
+    "seen": 1793933675.4995885,
+    "ast_hash": "b66d2c9b1ba845840efd321b78082977",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/media/photos/services-banner.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995902,
+    "ast_hash": "198d026b7bbaf9b6afef1c1f025931f1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/media/photos/svc-appliances.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995916,
+    "ast_hash": "cc915ad22919bfa6d614397ca761ab87",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/media/photos/svc-install.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995933,
+    "ast_hash": "3f39426765cb4a605252c7577817cd32",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/docs/site-html/media/photos/svc-repair.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4995947,
+    "ast_hash": "1ede71f602aceed3df8ab7a04a9a4382",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/dimensional/_preview/_preview-services-sheet.png": {
+    "mtime": 1793139694.0791056,
+    "seen": 1793933675.499596,
+    "ast_hash": "d7196b94aaad24a580ae1856de73fbbf",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/reference/nexthvac-home-full.png": {
+    "mtime": 1793139694.0891063,
+    "seen": 1793933675.4995975,
+    "ast_hash": "b9064c3123d75f9231aac8868fb3ca25",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/reference/nexthvac-home-viewport.png": {
+    "mtime": 1793139694.0891063,
+    "seen": 1793933675.4995992,
+    "ast_hash": "7441fc22b00f9b17afae94f903e21b37",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/reference/nexthvac-prices-viewport.png": {
+    "mtime": 1793139694.0891063,
+    "seen": 1793933675.4996004,
+    "ast_hash": "5817d1ba07fb86eee2c48c6b13222eeb",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/reference/nexthvac-repair-viewport.png": {
+    "mtime": 1793139694.0891063,
+    "seen": 1793933675.4996018,
+    "ast_hash": "fcb334b339d42329e2479b6eab289b09",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/reference/nexthvac-services-area.png": {
+    "mtime": 1793139694.1011071,
+    "seen": 1793933675.4996033,
+    "ast_hash": "b4191e067d3547cb6b655525c437d581",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/reference/nexthvac-services-hub-viewport.png": {
+    "mtime": 1793139694.1021073,
+    "seen": 1793933675.4996047,
+    "ast_hash": "6ca57ab962f490c3a9e46a5c571859e8",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/brand/favicon.png": {
+    "mtime": 1793139693.6430762,
+    "seen": 1793933675.4996068,
+    "ast_hash": "766ab49c09dccdb9ee945e43defde9f8",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/brand/favicon.svg": {
+    "mtime": 1793139693.6450765,
+    "seen": 1793933675.4996083,
+    "ast_hash": "cbde870f831b89a375a2b8e68147763d",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/brand/logo-copper-mark.svg": {
+    "mtime": 1793140899.9571934,
+    "seen": 1793933675.4996102,
+    "ast_hash": "bd814f7e8597bfa72496ae552bb00fe4",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/brand/logo-copper.svg": {
+    "mtime": 1793661251.1655378,
+    "seen": 1793933675.4996114,
+    "ast_hash": "ed2b7952acefa341ad7328c20ca0f23a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/brand/logo-hvac-beyond.svg": {
+    "mtime": 1793661251.1665378,
+    "seen": 1793933675.4996133,
+    "ast_hash": "0adf12420c61d73b451217b42d8a085b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/brand/logo-mark.svg": {
+    "mtime": 1793139693.6460764,
+    "seen": 1793933675.4996145,
+    "ast_hash": "aeb49008238cfc888557ba40de404aa2",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/brand/logo-on-white.svg": {
+    "mtime": 1793139693.6470766,
+    "seen": 1793933675.499616,
+    "ast_hash": "d59264a314ebb48c824c41a7a91aa02a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/brand/logo.png": {
+    "mtime": 1793139693.7330823,
+    "seen": 1793933675.4996176,
+    "ast_hash": "6be3062c8f34f19903dae4cf6dd5a27f",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/brand/logo.svg": {
+    "mtime": 1793139693.6470766,
+    "seen": 1793933675.499619,
+    "ast_hash": "aeb49008238cfc888557ba40de404aa2",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/brand/tools.svg": {
+    "mtime": 1793139693.6470766,
+    "seen": 1793933675.4996207,
+    "ast_hash": "cbde870f831b89a375a2b8e68147763d",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/icons/angi.svg": {
+    "mtime": 1793144373.9363585,
+    "seen": 1793933675.4996223,
+    "ast_hash": "128027e828eaee338f56c91c8d3fc501",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/icons/contact-fab.svg": {
+    "mtime": 1793152371.1711094,
+    "seen": 1793933675.4996238,
+    "ast_hash": "1ba6eff019c00244f1cc44cf57a02167",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/icons/google.svg": {
+    "mtime": 1793144373.7593591,
+    "seen": 1793933675.4996254,
+    "ast_hash": "ad38f4bbd11a886e4ef28fdb9cad1f23",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/icons/phone-5961.svg": {
+    "mtime": 1793140427.0353544,
+    "seen": 1793933675.4996266,
+    "ast_hash": "4519aa8c3bfd9a5c7dddad15239d3c47",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/icons/yelp.svg": {
+    "mtime": 1793144828.8154235,
+    "seen": 1793933675.4996283,
+    "ast_hash": "c27ac16fca1dc6117e59915941aff385",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/about.jpg": {
+    "mtime": 1793155458.618077,
+    "seen": 1793933675.4996297,
+    "ast_hash": "5fbc309775dfa9bea0e4d9a95f24fe07",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/area-side.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4996314,
+    "ast_hash": "7cef59772126c2e1085f3fb14269cae5",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/blog-honest-repair.png": {
+    "mtime": 1793139693.6590774,
+    "seen": 1793933675.4996328,
+    "ast_hash": "6f371e093d30b172cc404c1aa9841113",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/blog-system-replacement.png": {
+    "mtime": 1793139693.6650777,
+    "seen": 1793933675.4996347,
+    "ast_hash": "907d71f6601329ab80159cb80f9fd1ff",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/book-side.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.499636,
+    "ast_hash": "c12f136c846ee13c59bd203587b6a053",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/contact-side.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4996378,
+    "ast_hash": "f23c9b087d938b359fcb0bf292fdbb89",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/estimate-side.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4996393,
+    "ast_hash": "0e1c0eb76d47c8304d64fdf5cb888402",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/faq-hero.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.499641,
+    "ast_hash": "f3e4555c839e45c20b5866e007946a73",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/hero-hvac.jpg": {
+    "mtime": 1793139693.6780787,
+    "seen": 1793933675.4996424,
+    "ast_hash": "b09abaeca73d0f40cf1b17590516ee06",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/hero.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4996724,
+    "ast_hash": "feff2f3f576d2672e669547e32dc09a6",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/integrity.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.499676,
+    "ast_hash": "15359063ba317c5be74d9ca8600bccbc",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/legal-side.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.499867,
+    "ast_hash": "9dd667538e81e3c70b625a07a90627eb",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/not-found.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4998693,
+    "ast_hash": "ee28b6a76238d224b18e925cf62e986a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/project-1.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.499871,
+    "ast_hash": "8ff486eb519913b8d0e596860a35149e",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/project-2.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4998727,
+    "ast_hash": "9dd667538e81e3c70b625a07a90627eb",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/project-3.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4998746,
+    "ast_hash": "5518265b651d9f1b508da42c42f6d3bf",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/project-4.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4998765,
+    "ast_hash": "687553dbd59f0d5750019273df113bb5",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/project-hvac.jpg": {
+    "mtime": 1793139693.7330823,
+    "seen": 1793933675.4998784,
+    "ast_hash": "b1b7f3e28bd3fb5a3e2326151e009c3c",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/project-repair.jpg": {
+    "mtime": 1793139693.7460833,
+    "seen": 1793933675.49988,
+    "ast_hash": "8a07900f5cfc90c1b46bd90c6d08d0a0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/services-banner.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4998817,
+    "ast_hash": "198d026b7bbaf9b6afef1c1f025931f1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/svc-appliances.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4998832,
+    "ast_hash": "cc915ad22919bfa6d614397ca761ab87",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/svc-install.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.499885,
+    "ast_hash": "3f39426765cb4a605252c7577817cd32",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/svc-repair.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4998865,
+    "ast_hash": "1ede71f602aceed3df8ab7a04a9a4382",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/tip-repair.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4998882,
+    "ast_hash": "1ede71f602aceed3df8ab7a04a9a4382",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/mockups/wix-target/media/photos/tip-replace.jpg": {
+    "mtime": 1793139693.800087,
+    "seen": 1793933675.4998896,
+    "ast_hash": "feff2f3f576d2672e669547e32dc09a6",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/broken/Screenshot 2026-10-26 144158.jpg": {
+    "mtime": 1793139694.1031075,
+    "seen": 1793933675.4998913,
+    "ast_hash": "9194f9f260175c1899943e17e42183d3",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/broken/Screenshot 2026-10-26 144234.jpg": {
+    "mtime": 1793139694.1031075,
+    "seen": 1793933675.4998927,
+    "ast_hash": "72998082ba92dc54b484eb633c3ca2bc",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/broken/Screenshot 2026-10-26 144308.jpg": {
+    "mtime": 1793139694.1031075,
+    "seen": 1793933675.4998946,
+    "ast_hash": "61631cf511c42243cf8773a46a96e1b1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/broken/Screenshot 2026-10-26 150614.jpg": {
+    "mtime": 1793139694.1031075,
+    "seen": 1793933675.499896,
+    "ast_hash": "534ea75122f287a46d5d054f5b013346",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/broken/Screenshot 2026-10-26 150640.jpg": {
+    "mtime": 1793139694.1031075,
+    "seen": 1793933675.4998977,
+    "ast_hash": "225eb0c05255e1508790a04b772b94c0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/broken/Screenshot 2026-10-26 150655.jpg": {
+    "mtime": 1793139694.1031075,
+    "seen": 1793933675.4998994,
+    "ast_hash": "fb754a387d18810154bea14aadd9b63a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/broken/Screenshot 2026-10-26 151016.jpg": {
+    "mtime": 1793139694.1031075,
+    "seen": 1793933675.4999008,
+    "ast_hash": "323c80328d082492c52abe7da8e228a4",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/broken/Screenshot 2026-10-26 152833.jpg": {
+    "mtime": 1793139694.1031075,
+    "seen": 1793933675.4999025,
+    "ast_hash": "3c674da9db87dadfb9dadd6d1224dfda",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/broken/Screenshot 2026-10-26 160505.jpg": {
+    "mtime": 1793139694.1031075,
+    "seen": 1793933675.4999037,
+    "ast_hash": "1b7b8c793b63da3902c61f1278d0918e",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/broken/Screenshot 2026-10-26 160901.jpg": {
+    "mtime": 1793139694.1031075,
+    "seen": 1793933675.4999053,
+    "ast_hash": "2f30aced5aa957164c1656f7db28cfe0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/about__area-01.png": {
+    "mtime": 1793158534.90294,
+    "seen": 1793933675.499907,
+    "ast_hash": "de571ab5b8f6441e293d8ccf4a662101",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/about__area-02.png": {
+    "mtime": 1793158535.3319557,
+    "seen": 1793933675.4999087,
+    "ast_hash": "77bc1bc3a788eb2babd775c69a0e3abc",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/about__area-03.png": {
+    "mtime": 1793158535.7329705,
+    "seen": 1793933675.4999108,
+    "ast_hash": "c84c011f4c7fcca93289a30a1482bef6",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/about__area-04.png": {
+    "mtime": 1793158536.1019838,
+    "seen": 1793933675.4999127,
+    "ast_hash": "8d8cebd9be86f1f6224ed13ef85afac8",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/about__area-05.png": {
+    "mtime": 1793158536.485998,
+    "seen": 1793933675.4999142,
+    "ast_hash": "327e42946302969a4d59dd1e7bb4e0f5",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/book__area-01.png": {
+    "mtime": 1793158531.9228303,
+    "seen": 1793933675.499916,
+    "ast_hash": "aadb3e8933f7053fec429bf7bd5b5bb0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/book__area-02.png": {
+    "mtime": 1793158532.2708433,
+    "seen": 1793933675.4999173,
+    "ast_hash": "7c1410f0d113fcf96609659429d919e9",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/contact__area-01.png": {
+    "mtime": 1793158538.798082,
+    "seen": 1793933675.499919,
+    "ast_hash": "7b185f034271875739cbff971794dc00",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/contact__area-02.png": {
+    "mtime": 1793158539.1680956,
+    "seen": 1793933675.4999204,
+    "ast_hash": "27b5991a8574e465916dea46756620b1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/contact__area-03.png": {
+    "mtime": 1793158539.5451093,
+    "seen": 1793933675.499922,
+    "ast_hash": "21445f8dd8fa266d31a6983d61a781b6",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/full/about__full.png": {
+    "mtime": 1793158534.466924,
+    "seen": 1793933675.4999237,
+    "ast_hash": "ac4067dc7a34c9d56ce6614489679585",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/full/book__full.png": {
+    "mtime": 1793158531.4888144,
+    "seen": 1793933675.4999251,
+    "ast_hash": "a3703dab3fb028bea2c42178db2f464c",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/full/contact__full.png": {
+    "mtime": 1793158538.2830634,
+    "seen": 1793933675.4999273,
+    "ast_hash": "2176b2ba7ff322512568322edcac5d03",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/full/home__full.png": {
+    "mtime": 1793158523.859531,
+    "seen": 1793933675.4999287,
+    "ast_hash": "994eba67eef890542c49b75339039669",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/full/index__full.png": {
+    "mtime": 1793158519.107352,
+    "seen": 1793933675.4999304,
+    "ast_hash": "70b6da1fcb0e500d0140c23a29152f55",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/full/legal-privacy__full.png": {
+    "mtime": 1793158541.0331633,
+    "seen": 1793933675.499932,
+    "ast_hash": "80cff74c3d4a480c2d44b2d86bbac3ce",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/full/not-found__full.png": {
+    "mtime": 1793158543.2122421,
+    "seen": 1793933675.4999337,
+    "ast_hash": "f4ef4254396963e687599c008869a943",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/full/services__full.png": {
+    "mtime": 1793158528.0486872,
+    "seen": 1793933675.4999352,
+    "ast_hash": "e5210cd02d9ce59fb42ea5b2cba88f45",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/home__area-01.png": {
+    "mtime": 1793158524.4045513,
+    "seen": 1793933675.499937,
+    "ast_hash": "0243f4289d6ad401ba855c6485831c4d",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/home__area-02.png": {
+    "mtime": 1793158524.8925695,
+    "seen": 1793933675.4999387,
+    "ast_hash": "a009cc67ed493bce40c0aca1494516a9",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/home__area-03.png": {
+    "mtime": 1793158525.281584,
+    "seen": 1793933675.4999406,
+    "ast_hash": "4a446df28a2718326e44d81001bdf18d",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/home__area-04.png": {
+    "mtime": 1793158525.681599,
+    "seen": 1793933675.4999423,
+    "ast_hash": "25efaf9a596f6298c0d37afd91e81250",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/home__area-05.png": {
+    "mtime": 1793158526.085614,
+    "seen": 1793933675.4999442,
+    "ast_hash": "6c70aea0bbcc81d39babdba4e847e59a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/index__area-01.png": {
+    "mtime": 1793158519.4703658,
+    "seen": 1793933675.4999456,
+    "ast_hash": "70b6da1fcb0e500d0140c23a29152f55",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/legal-privacy__area-01.png": {
+    "mtime": 1793158541.4561787,
+    "seen": 1793933675.4999473,
+    "ast_hash": "8dc534a3186406414d3a0bbc00d4b681",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/legal-privacy__area-02.png": {
+    "mtime": 1793158541.8191917,
+    "seen": 1793933675.4999487,
+    "ast_hash": "1a5fe4dc6081cfac67b143b1191ca1ef",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/not-found__area-01.png": {
+    "mtime": 1793158543.6512578,
+    "seen": 1793933675.4999506,
+    "ast_hash": "2bbe42553c9386a114df69dd1e703d0b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/not-found__area-02.png": {
+    "mtime": 1793158544.0372717,
+    "seen": 1793933675.499952,
+    "ast_hash": "72a538ad25f392ae2acea9063c16c94b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/services__area-01.png": {
+    "mtime": 1793158528.5387053,
+    "seen": 1793933675.4999537,
+    "ast_hash": "b2e10b47ca96f9be61fb1e0788a59753",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/services__area-02.png": {
+    "mtime": 1793158528.966721,
+    "seen": 1793933675.4999552,
+    "ast_hash": "bd048747ae3d231ee76974cb340e8887",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/services__area-03.png": {
+    "mtime": 1793158529.3787365,
+    "seen": 1793933675.4999568,
+    "ast_hash": "1f80aa1bc297802061c84bdb7a4ebf65",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/desktop/services__area-04.png": {
+    "mtime": 1793158529.7637508,
+    "seen": 1793933675.499958,
+    "ast_hash": "3fb58305bdee8670915a7ca29c7b81ad",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/about__area-01.png": {
+    "mtime": 1793158568.096118,
+    "seen": 1793933675.4999597,
+    "ast_hash": "69e706994dbe7b6f554effd5188adde4",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/about__area-02.png": {
+    "mtime": 1793158568.6701376,
+    "seen": 1793933675.4999614,
+    "ast_hash": "937258e7379869846da07cadeb2acab4",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/about__area-03.png": {
+    "mtime": 1793158569.201156,
+    "seen": 1793933675.4999628,
+    "ast_hash": "eb15be5218584b523ab52d6891c8c196",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/about__area-04.png": {
+    "mtime": 1793158569.7081733,
+    "seen": 1793933675.4999647,
+    "ast_hash": "6b8d535825af3a45360099e1951de5a9",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/about__area-05.png": {
+    "mtime": 1793158570.1551886,
+    "seen": 1793933675.4999664,
+    "ast_hash": "55d0f1a793ff2d6df2b979ef66d80975",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/about__area-06.png": {
+    "mtime": 1793158570.5812032,
+    "seen": 1793933675.499968,
+    "ast_hash": "3edfbd54837381bbaa935f104ff1fda1",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/about__area-07.png": {
+    "mtime": 1793158570.9722164,
+    "seen": 1793933675.4999695,
+    "ast_hash": "4b44f3f725664c9d3beb5c3d85f5dcba",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/book__area-01.png": {
+    "mtime": 1793158564.0049767,
+    "seen": 1793933675.4999714,
+    "ast_hash": "c6d92a19c2ed4cca9f84fa0d3b2f22c8",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/book__area-02.png": {
+    "mtime": 1793158564.38499,
+    "seen": 1793933675.4999728,
+    "ast_hash": "87f4cd29a56a8f2ccbb0576990d784f9",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/book__area-03.png": {
+    "mtime": 1793158564.7730033,
+    "seen": 1793933675.4999745,
+    "ast_hash": "e14be065406ca5b7167e13e4206b1f4c",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/contact__area-01.png": {
+    "mtime": 1793158573.5253034,
+    "seen": 1793933675.4999762,
+    "ast_hash": "acae669af1a7be924fa8098ef6350ee5",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/contact__area-02.png": {
+    "mtime": 1793158574.0283206,
+    "seen": 1793933675.4999778,
+    "ast_hash": "5faa344bfb4d635db3531b31b1935db8",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/contact__area-03.png": {
+    "mtime": 1793158574.4443347,
+    "seen": 1793933675.4999793,
+    "ast_hash": "e9a3553bd004626b9cfa83995c4075e6",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/contact__area-04.png": {
+    "mtime": 1793158574.8723493,
+    "seen": 1793933675.4999812,
+    "ast_hash": "7784730a825ec68f26149ee28a6288ae",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/full/about__full.png": {
+    "mtime": 1793158567.6731033,
+    "seen": 1793933675.4999828,
+    "ast_hash": "693ea6bd54351dc2d0ae5946d465fc4d",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/full/book__full.png": {
+    "mtime": 1793158563.4469576,
+    "seen": 1793933675.4999845,
+    "ast_hash": "19bb21056860d30a80b40588a9a5957f",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/full/contact__full.png": {
+    "mtime": 1793158573.0212862,
+    "seen": 1793933675.499986,
+    "ast_hash": "790df0547cfe7a242cf29e5aea79aec2",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/full/home__full.png": {
+    "mtime": 1793158550.8465154,
+    "seen": 1793933675.4999876,
+    "ast_hash": "5057342b4592335a146931ee5d6e6e48",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/full/index__full.png": {
+    "mtime": 1793158545.93734,
+    "seen": 1793933675.4999893,
+    "ast_hash": "ad03c0ec705c4d46a96dff5cbf027aea",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/full/legal-privacy__full.png": {
+    "mtime": 1793158576.495404,
+    "seen": 1793933675.499991,
+    "ast_hash": "9cf6e7a8a8c1d684358e8fe331dd0a77",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/full/not-found__full.png": {
+    "mtime": 1793158579.3495004,
+    "seen": 1793933675.4999926,
+    "ast_hash": "ea4f67bffd1b663926b65fff36ff7f5f",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/full/services__full.png": {
+    "mtime": 1793158558.5897884,
+    "seen": 1793933675.499994,
+    "ast_hash": "c370c2e5b811b1861150d084e08fd651",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/home__area-01.png": {
+    "mtime": 1793158551.793549,
+    "seen": 1793933675.4999957,
+    "ast_hash": "8baa02268aa45c8138655c947fa83e26",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/home__area-02.png": {
+    "mtime": 1793158552.415571,
+    "seen": 1793933675.4999971,
+    "ast_hash": "22ce194c9a528e3362e8bc178a444b11",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/home__area-03.png": {
+    "mtime": 1793158552.9155886,
+    "seen": 1793933675.4999986,
+    "ast_hash": "31702eb90d043d68a399e570a0690dc6",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/home__area-04.png": {
+    "mtime": 1793158553.5006094,
+    "seen": 1793933675.5,
+    "ast_hash": "9a9ecbe1037661e632ae91c9be841c81",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/home__area-05.png": {
+    "mtime": 1793158553.9906268,
+    "seen": 1793933675.500002,
+    "ast_hash": "6dcdb29278add042cf4d08d509bbbd2c",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/home__area-06.png": {
+    "mtime": 1793158554.4476428,
+    "seen": 1793933675.5000036,
+    "ast_hash": "880bf53bf6f587c28ed7e4666d5527e2",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/home__area-07.png": {
+    "mtime": 1793158554.9006588,
+    "seen": 1793933675.500005,
+    "ast_hash": "b9aabc35c73b0711cc9647ae40a5bc47",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/home__area-08.png": {
+    "mtime": 1793158555.3476746,
+    "seen": 1793933675.5000067,
+    "ast_hash": "7821980c51d372c44e84bd8c988a42eb",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/home__area-09.png": {
+    "mtime": 1793158555.7736895,
+    "seen": 1793933675.500008,
+    "ast_hash": "fb969e84287f676d6bd0ba8ae6b10dea",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/index__area-01.png": {
+    "mtime": 1793158546.327354,
+    "seen": 1793933675.5000098,
+    "ast_hash": "a360166ee8aa15ba408c6d475add73ce",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/index__area-02.png": {
+    "mtime": 1793158546.7233682,
+    "seen": 1793933675.5000114,
+    "ast_hash": "966642768c30c84723187aed2409c571",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/legal-privacy__area-01.png": {
+    "mtime": 1793158576.9534197,
+    "seen": 1793933675.500013,
+    "ast_hash": "49c2c7b4f7cf34b46222d3ae1c45682b",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/legal-privacy__area-02.png": {
+    "mtime": 1793158577.3454328,
+    "seen": 1793933675.5000145,
+    "ast_hash": "e5895ad73833ddc9640f95dd59235128",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/legal-privacy__area-03.png": {
+    "mtime": 1793158577.8024483,
+    "seen": 1793933675.5000162,
+    "ast_hash": "eb6de16c0b55ad1ee119ec23df94921e",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/not-found__area-01.png": {
+    "mtime": 1793158579.757514,
+    "seen": 1793933675.5000176,
+    "ast_hash": "c0af2a6be42510f57c523ac23d7e966a",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/not-found__area-02.png": {
+    "mtime": 1793158580.1985288,
+    "seen": 1793933675.5000193,
+    "ast_hash": "bb97349a846909ad7ffd07a6bd229bc0",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/services__area-01.png": {
+    "mtime": 1793158559.1478078,
+    "seen": 1793933675.500021,
+    "ast_hash": "5d39ac102f9ea672bce7709606556090",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/services__area-02.png": {
+    "mtime": 1793158559.7568293,
+    "seen": 1793933675.5000224,
+    "ast_hash": "db17ac136b61261d4d27b72f9a258b67",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/services__area-03.png": {
+    "mtime": 1793158560.1878443,
+    "seen": 1793933675.500024,
+    "ast_hash": "4709cb78c532cf56e276889577889974",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/services__area-04.png": {
+    "mtime": 1793158560.7448635,
+    "seen": 1793933675.5000257,
+    "ast_hash": "5fa3c2b4fd72cd788a95c62b95137e36",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/services__area-05.png": {
+    "mtime": 1793158561.158878,
+    "seen": 1793933675.5000274,
+    "ast_hash": "610d58aeba4d00d582616fb311ec5e62",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/live-baseline/mockup_screenshots/mobile/services__area-06.png": {
+    "mtime": 1793158561.5718925,
+    "seen": 1793933675.500029,
+    "ast_hash": "73cd03c37d3314896464f4eed143fe25",
+    "semantic_hash": ""
+  },
+  "site-keeping-busy-hvac/screenshots/archive/misc/KEEPing-busy-logo-source.png": {
+    "mtime": 1793139694.1031075,
+    "seen": 1793933675.500031,
+    "ast_hash": "6bbdee847ac33879dad74e3ba5bff3e1",
+    "semantic_hash": ""
+  }
+}
