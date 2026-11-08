@@ -1,21 +1,56 @@
 {
   "folders": [
-    { "path": ".", "name": "pylonsite" },
-    { "path": "shared-ui", "name": "shared-ui" },
-    { "path": "shared-lint", "name": "shared-lint" },
-    { "path": "shared-docs", "name": "shared-docs" },
-    { "path": "shared-scripts", "name": "shared-scripts" },
-    { "path": "site-sants-fitness", "name": "site-sants-fitness" },
-    { "path": "site-keeping-busy-hvac", "name": "site-keeping-busy-hvac" }
+    {
+      "name": "pylonsite",
+      "path": "."
+    },
+    {
+      "name": "shared-ui",
+      "path": "shared-ui"
+    },
+    {
+      "name": "shared-lint",
+      "path": "shared-lint"
+    },
+    {
+      "name": "shared-docs",
+      "path": "shared-docs"
+    },
+    {
+      "name": "shared-scripts",
+      "path": "shared-scripts"
+    },
+    {
+      "name": "site-sants-fitness",
+      "path": "site-sants-fitness"
+    },
+    {
+      "name": "site-keeping-busy-hvac",
+      "path": "site-keeping-busy-hvac"
+    },
+    {
+      "name": "site-keeping-busy-hvac-live",
+      "path": "site-keeping-busy-hvac-live"
+    }
   ],
   "settings": {
     "workbench.colorTheme": "Default Light Modern",
     "files.autoSave": "afterDelay",
+    "git.enabled": true,
     "git.autoRepositoryDetection": true,
     "git.detectSubmodules": true,
     "git.detectSubmodulesLimit": 20,
-    "git.openRepositoryInParentFolders": "never",
-    "git.repositoryScanMaxDepth": 2,
+    "git.openRepositoryInParentFolders": "always",
+    "git.repositoryScanMaxDepth": 3,
+    "git.scanRepositories": [
+      "site-keeping-busy-hvac",
+      "site-keeping-busy-hvac-live",
+      "site-sants-fitness",
+      "shared-ui",
+      "shared-lint",
+      "shared-docs",
+      "shared-scripts"
+    ],
     "scm.repositories.visible": 15,
     "files.exclude": {
       "**/node_modules": true,
