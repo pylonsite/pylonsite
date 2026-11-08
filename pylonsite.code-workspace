@@ -10,7 +10,7 @@
   ],
   "settings": {
     "workbench.colorTheme": "Default Light Modern",
-    "files.autoSave": "onFocusChange",
+    "files.autoSave": "afterDelay",
     "git.autoRepositoryDetection": true,
     "git.detectSubmodules": true,
     "git.detectSubmodulesLimit": 20,
