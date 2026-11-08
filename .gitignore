@@ -4,3 +4,8 @@ node_modules/
 .DS_Store
 .env
 .env.*
+
+# Graphify local knowledge-graph / AST cache (agent tooling)
+graphify-out/
+**/graphify-out/
+__pycache__/
