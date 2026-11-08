@@ -11,14 +11,22 @@
   "settings": {
     "workbench.colorTheme": "Default Light Modern",
     "files.autoSave": "onFocusChange",
-    "git.autoRepositoryDetection": "subFolders",
+    "git.autoRepositoryDetection": true,
     "git.detectSubmodules": true,
+    "git.detectSubmodulesLimit": 20,
+    "git.openRepositoryInParentFolders": "never",
+    "git.repositoryScanMaxDepth": 2,
+    "scm.repositories.visible": 15,
     "files.exclude": {
-      "**/node_modules": true
+      "**/node_modules": true,
+      "**/graphify-out": true,
+      "**/__pycache__": true
     },
     "search.exclude": {
       "**/node_modules": true,
       "**/.generated": true,
+      "**/graphify-out": true,
+      "**/__pycache__": true,
       "pnpm-lock.yaml": true
     }
   }
