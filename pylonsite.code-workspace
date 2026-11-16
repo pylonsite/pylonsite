@@ -37,11 +37,10 @@
     "workbench.colorTheme": "Default Light Modern",
     "files.autoSave": "afterDelay",
     "git.enabled": true,
-    "git.autoRepositoryDetection": true,
-    "git.detectSubmodules": true,
-    "git.detectSubmodulesLimit": 20,
-    "git.openRepositoryInParentFolders": "always",
-    "git.repositoryScanMaxDepth": 3,
+    "git.autoRepositoryDetection": "openEditors",
+    "git.detectSubmodules": false,
+    "git.openRepositoryInParentFolders": "never",
+    "git.repositoryScanMaxDepth": 1,
     "git.scanRepositories": [
       "site-keeping-busy-hvac",
       "site-keeping-busy-hvac-live",
@@ -51,17 +50,34 @@
       "shared-docs",
       "shared-scripts"
     ],
-    "scm.repositories.visible": 15,
+    "scm.repositories.visible": 10,
     "files.exclude": {
       "**/node_modules": true,
       "**/graphify-out": true,
-      "**/__pycache__": true
+      "**/__pycache__": true,
+      "**/.next": true,
+      "**/dist": true,
+      "**/.turbo": true
+    },
+    "files.watcherExclude": {
+      "**/node_modules/**": true,
+      "**/.git/objects/**": true,
+      "**/.git/subtree-cache/**": true,
+      "**/graphify-out/**": true,
+      "**/.next/**": true,
+      "**/dist/**": true,
+      "**/.turbo/**": true,
+      "**/pnpm-lock.yaml": true,
+      "**/.cursor-server/**": true,
+      "**/agent-transcripts/**": true
     },
     "search.exclude": {
       "**/node_modules": true,
       "**/.generated": true,
       "**/graphify-out": true,
       "**/__pycache__": true,
+      "**/.next": true,
+      "**/dist": true,
       "pnpm-lock.yaml": true
     }
   }
