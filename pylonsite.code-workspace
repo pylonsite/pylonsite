@@ -31,6 +31,10 @@
     {
       "name": "site-keeping-busy-hvac-live",
       "path": "site-keeping-busy-hvac-live"
+    },
+    {
+      "name": "site-server",
+      "path": "site-server"
     }
   ],
   "settings": {
@@ -48,7 +52,8 @@
       "shared-ui",
       "shared-lint",
       "shared-docs",
-      "shared-scripts"
+      "shared-scripts",
+      "site-server"
     ],
     "scm.repositories.visible": 10,
     "files.exclude": {

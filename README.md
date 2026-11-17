@@ -19,6 +19,7 @@ private child-repo code (unless you have access to those repos).
 | `shared-scripts` | [pylonsite/shared-scripts](https://github.com/pylonsite/shared-scripts) | Shared developer/maintenance scripts |
 | `site-sants-fitness` | [pylonsite/site-sants-fitness](https://github.com/pylonsite/site-sants-fitness) | Consumer application |
 | `site-keeping-busy-hvac` | [pylonsite/site-keeping-busy-hvac](https://github.com/pylonsite/site-keeping-busy-hvac) | Keeping Busy HVAC site vault (Wix upgrade) |
+| `site-server` | [pylonsite/site-server](https://github.com/pylonsite/site-server) | Site builder platform: editor, hub, component catalog, live-kit generator |
 
 ## How to clone
 

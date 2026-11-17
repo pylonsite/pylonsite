@@ -26,3 +26,7 @@
 	path = site-keeping-busy-hvac-live
 	url = https://github.com/pylonsite/site-keeping-busy-hvac-live.git
 	branch = main
+[submodule "site-server"]
+	path = site-server
+	url = https://github.com/pylonsite/site-server.git
+	branch = main
