@@ -5,6 +5,10 @@ node_modules/
 .env
 .env.*
 
+# Local live kits are their own git repos (siblings of site-*-live submodules).
+# Registered submodule kits stay tracked via .gitmodules; this only hides ad-hoc kits.
+/site-*-live/
+
 # Graphify local knowledge-graph / AST cache (agent tooling)
 graphify-out/
 **/graphify-out/
