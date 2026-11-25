@@ -84,6 +84,8 @@
       "**/.next": true,
       "**/dist": true,
       "pnpm-lock.yaml": true
-    }
+    },
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "python.terminal.activateEnvironment": false
   }
 }

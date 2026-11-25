@@ -1,0 +1,7 @@
+---
+description: ZIP check card keeps reserved height; status must not grow or shrink it
+globs: "**/zip-check/**,**/service-area/**,**/sec-area/**"
+alwaysApply: true
+---
+
+`.zip-check` keeps `min-height: 10.25rem`. `.zip-check-msg` keeps a two-line reserve (`min-height: calc(1.45em * 2)`). Hidden status uses `display: block; visibility: hidden` — never `display: none` or `min-height: 0`. Status copy and map jump must not change the card height. Do not treat that empty space as a bug. Put the same values on the element sheet and on `service-area` / `sec-area` (page `#id` CSS beats `body` element CSS).

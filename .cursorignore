@@ -2,3 +2,11 @@
 # KB live editor generated bundles
 site-keeping-busy-hvac-live/Server/preview/editor/editor.js
 site-keeping-busy-hvac-live/Server/preview/editor/editor.css
+**/platform/editor/editor.js
+**/platform/editor/editor.css
+**/preview/editor/editor.js
+**/preview/editor/editor.css
+**/Runtime/copied/editor/editor.js
+**/Runtime/copied/editor/editor.css
+site-keeping-busy-hvac/live/Server/preview/editor/editor.js
+site-keeping-busy-hvac/live/Server/preview/editor/editor.css

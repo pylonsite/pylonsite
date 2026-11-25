@@ -1,0 +1,15 @@
+---
+description: HVAC visual calls that must not be "fixed" away; duplicate CSS + live copies
+alwaysApply: true
+---
+
+These are locked user calls. Do not treat reserved space, missing fill, or a one-line status as a bug. Edit **site-server** and copy the same files into `site-keeping-busy-hvac-live/Runtime/copied/`. Page `#id` CSS beats `body` element CSS — change both.
+
+- ZIP `.zip-check`: `min-height: 10.25rem`. `.zip-check-msg`: two-line `min-height: calc(1.45em * 2)`; `[hidden]{display:block;visibility:hidden}`. Never `min-height: 0` or `display: none`.
+- Photo hosts (`.photo-fill`, clip, `.area-photo`, `.card-media`, `.card-media-frame`, `.tip-media`, any `img` with slide/bounce load): `background: none !important`. No `--border`/cream plate during slide-in. Do not use `isolation: isolate` on `.photo-fill-clip` (it composites an opaque box). Overflow hidden is enough to clip motion. Maps may keep `--border`.
+- Integrity photo: `image-slide-right` / `slide-in-right` only. Healer fallback is right, not bottom. `__psArm` drops peer entrance classes.
+- Services area CTAs: `.area-ctas` `z-index: 3` (above the photo in `#ps-m-phone`).
+- Area photo: `aspect-ratio: 1 / 1; min-height: 420px; max-height: none`. Catalog/integrity photos: `8 / 5`, no `max-height: 220px` on area/banner.
+- Contact cards: `animName: slide-in-right`. Contact side photo load off.
+- Footer: reveal on `html.ps-ent-ready` as well as fonts-ready. Social row `padding-block: 1rem` between catalog dividers.
+- Header phone pill: `min-height: var(--btn-h-sm, 36px)`.

@@ -1,0 +1,6 @@
+---
+description: HVAC/editor/build — pages compile only from composition JSON + catalog
+alwaysApply: true
+---
+
+Pack templates must not own page structure. Every public page is only `settings/compositions/<page>.json`: an ordered list of catalog section instances. Each instance is built by `render_section()` from `components/sections/<type>/`. Elements live only inside sections (`data-ps-el`). No page `.py` may emit builtin chrome, inject HTML blobs, or treat two visual bands as one section type. Editor outline must equal composition rows 1:1. If a page still has a template under `components/templates/<page>/`, that migration is unfinished — do not add pack exceptions.

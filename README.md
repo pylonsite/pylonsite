@@ -104,4 +104,17 @@ git submodule foreach --recursive 'git switch main'
 ```bash
 # Branch + commit of every submodule:
 bash shared-scripts/bin/submodules-status.sh
+
+# Prettier --write + lint every shared-lint package, then site-server tests:
+./preflight.sh
+./preflight.sh --quick      # skip browser e2e
+./preflight.sh --no-test    # lint only
+# Run log: site-server/tests/.runs/history.jsonl (also .preflight-history.jsonl)
+
+# Line/char stats (site-server + HVAC live by default):
+./curstats
+./curstats site-server
+./curstats live
+./curstats --all
+# also: cd shared-scripts && ./curstats
 ```
